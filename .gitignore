@@ -1,0 +1,16 @@
+.runtime/
+build/
+data/raw/
+data/stac/
+data/derived/**/*.f32
+data/derived/**/*.u16
+data/derived/**/*.u8
+data/geography/tiles/
+__pycache__/
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz

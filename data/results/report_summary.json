@@ -1,0 +1,25 @@
+{
+  "panel_status_counts": {
+    "independently reproduced": 4,
+    "partially reproduced": 15,
+    "not reproduced": 13
+  },
+  "validation": [
+    [
+      "validation",
+      75,
+      75
+    ],
+    [
+      "integration_checks",
+      14,
+      14
+    ],
+    [
+      "real_checks",
+      401,
+      401
+    ]
+  ],
+  "scope_note": "Four events acquired; one additional B12 domain. Complete statistical event records: zero."
+}

@@ -1,0 +1,1726 @@
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_independent/build
+[100%] Built target avulsion
+Internal ctest changing into directory: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_independent/build
+Test project /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_independent/build
+    Start 1: limiting_cases
+1/1 Test #1: limiting_cases ...................   Passed    0.01 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.01 sec
+All limiting-case checks passed
+cloud_does_not_contaminate_median PASS
+known_uniform_spectrum PASS
+missing_pixel_stays_missing PASS
+bright_pixel_detected PASS
+wet_pixel_detected PASS
+known_pixel_area_900_m2 PASS
+identical_real_masks_SR1 PASS
+analytical_power_law_exponent PASS
+analytical_power_law_r_squared PASS
+known_group_median PASS
+known_group_range PASS
+translated_overlap_foreground_IoU PASS
+translated_overlap_valid_count PASS
+translated_overlap_spectrum_unchanged PASS
+V11: 672 x 668, 765 scenes
+V11: 10/765 attempted; 0 failures
+V11: 20/765 attempted; 0 failures
+V11: 30/765 attempted; 0 failures
+V11: 40/765 attempted; 0 failures
+V11: 50/765 attempted; 0 failures
+V11: 60/765 attempted; 0 failures
+V11: 70/765 attempted; 0 failures
+V11: 80/765 attempted; 0 failures
+V11: 90/765 attempted; 0 failures
+V11: 100/765 attempted; 0 failures
+V11: 110/765 attempted; 0 failures
+V11: 120/765 attempted; 0 failures
+V11: 130/765 attempted; 0 failures
+V11: 140/765 attempted; 0 failures
+V11: 150/765 attempted; 0 failures
+V11: 160/765 attempted; 0 failures
+V11: 170/765 attempted; 0 failures
+V11: 180/765 attempted; 0 failures
+V11: 190/765 attempted; 0 failures
+V11: 200/765 attempted; 0 failures
+V11: 210/765 attempted; 0 failures
+V11: 220/765 attempted; 0 failures
+V11: 230/765 attempted; 0 failures
+V11: 240/765 attempted; 0 failures
+V11: 250/765 attempted; 0 failures
+V11: 260/765 attempted; 0 failures
+V11: 270/765 attempted; 0 failures
+V11: 280/765 attempted; 0 failures
+V11: 290/765 attempted; 0 failures
+V11: 300/765 attempted; 0 failures
+V11: 310/765 attempted; 0 failures
+V11: 320/765 attempted; 0 failures
+V11: 330/765 attempted; 0 failures
+V11: 340/765 attempted; 0 failures
+V11: 350/765 attempted; 0 failures
+V11: 360/765 attempted; 0 failures
+V11: 370/765 attempted; 0 failures
+V11: 380/765 attempted; 0 failures
+V11: 390/765 attempted; 0 failures
+V11: 400/765 attempted; 0 failures
+V11: 410/765 attempted; 0 failures
+V11: 420/765 attempted; 0 failures
+V11: 430/765 attempted; 0 failures
+V11: 440/765 attempted; 0 failures
+V11: 450/765 attempted; 0 failures
+V11: 460/765 attempted; 0 failures
+V11: 470/765 attempted; 0 failures
+V11: 480/765 attempted; 0 failures
+V11: 490/765 attempted; 0 failures
+V11: 500/765 attempted; 0 failures
+V11: 510/765 attempted; 0 failures
+V11: 520/765 attempted; 0 failures
+V11: 530/765 attempted; 0 failures
+V11: 540/765 attempted; 0 failures
+V11: 550/765 attempted; 0 failures
+V11: 560/765 attempted; 0 failures
+V11: 570/765 attempted; 0 failures
+V11: 580/765 attempted; 0 failures
+V11: 590/765 attempted; 0 failures
+V11: 600/765 attempted; 0 failures
+V11: 610/765 attempted; 0 failures
+V11: 620/765 attempted; 0 failures
+V11: 630/765 attempted; 0 failures
+V11: 640/765 attempted; 0 failures
+V11: 650/765 attempted; 0 failures
+V11: 660/765 attempted; 0 failures
+V11: 670/765 attempted; 0 failures
+V11: 680/765 attempted; 0 failures
+V11: 690/765 attempted; 0 failures
+V11: 700/765 attempted; 0 failures
+V11: 710/765 attempted; 0 failures
+V11: 720/765 attempted; 0 failures
+V11: 730/765 attempted; 0 failures
+V11: 740/765 attempted; 0 failures
+V11: 750/765 attempted; 0 failures
+V11: 760/765 attempted; 0 failures
+V11: 765/765 attempted; 0 failures
+V15: 674 x 670, 572 scenes
+V15: 10/572 attempted; 0 failures
+V15: 20/572 attempted; 0 failures
+V15: 30/572 attempted; 0 failures
+V15: 40/572 attempted; 0 failures
+V15: 50/572 attempted; 0 failures
+V15: 60/572 attempted; 0 failures
+V15: 70/572 attempted; 0 failures
+V15: 80/572 attempted; 0 failures
+V15: 90/572 attempted; 0 failures
+V15: 100/572 attempted; 0 failures
+V15: 110/572 attempted; 0 failures
+V15: 120/572 attempted; 0 failures
+V15: 130/572 attempted; 0 failures
+V15: 140/572 attempted; 0 failures
+V15: 150/572 attempted; 0 failures
+V15: 160/572 attempted; 0 failures
+V15: 170/572 attempted; 0 failures
+V15: 180/572 attempted; 0 failures
+V15: 190/572 attempted; 0 failures
+V15: 200/572 attempted; 0 failures
+V15: 210/572 attempted; 0 failures
+V15: 220/572 attempted; 0 failures
+V15: 230/572 attempted; 0 failures
+V15: 240/572 attempted; 0 failures
+V15: 250/572 attempted; 0 failures
+V15: 260/572 attempted; 0 failures
+V15: 270/572 attempted; 0 failures
+V15: 280/572 attempted; 0 failures
+V15: 290/572 attempted; 0 failures
+V15: 300/572 attempted; 0 failures
+V15: 310/572 attempted; 0 failures
+V15: 320/572 attempted; 0 failures
+V15: 330/572 attempted; 0 failures
+V15: 340/572 attempted; 0 failures
+V15: 350/572 attempted; 0 failures
+V15: 360/572 attempted; 0 failures
+V15: 370/572 attempted; 0 failures
+V15: 380/572 attempted; 0 failures
+V15: 390/572 attempted; 0 failures
+V15: 400/572 attempted; 0 failures
+V15: 410/572 attempted; 0 failures
+V15: 420/572 attempted; 0 failures
+V15: 430/572 attempted; 0 failures
+V15: 440/572 attempted; 0 failures
+V15: 450/572 attempted; 0 failures
+V15: 460/572 attempted; 0 failures
+V15: 470/572 attempted; 0 failures
+V15: 480/572 attempted; 0 failures
+V15: 490/572 attempted; 0 failures
+V15: 500/572 attempted; 0 failures
+V15: 510/572 attempted; 0 failures
+V15: 520/572 attempted; 0 failures
+V15: 530/572 attempted; 0 failures
+V15: 540/572 attempted; 0 failures
+V15: 550/572 attempted; 0 failures
+V15: 560/572 attempted; 0 failures
+V15: 570/572 attempted; 0 failures
+V15: 572/572 attempted; 0 failures
+B11: 679 x 674, 923 scenes
+B11: 10/923 attempted; 0 failures
+B11: 20/923 attempted; 0 failures
+B11: 30/923 attempted; 0 failures
+B11: 40/923 attempted; 0 failures
+B11: 50/923 attempted; 0 failures
+B11: 60/923 attempted; 0 failures
+B11: 70/923 attempted; 0 failures
+B11: 80/923 attempted; 0 failures
+B11: 90/923 attempted; 0 failures
+B11: 100/923 attempted; 0 failures
+B11: 110/923 attempted; 0 failures
+B11: 120/923 attempted; 0 failures
+B11: 130/923 attempted; 0 failures
+B11: 140/923 attempted; 0 failures
+B11: 150/923 attempted; 0 failures
+B11: 160/923 attempted; 0 failures
+B11: 170/923 attempted; 0 failures
+B11: 180/923 attempted; 0 failures
+B11: 190/923 attempted; 0 failures
+B11: 200/923 attempted; 0 failures
+B11: 210/923 attempted; 0 failures
+B11: 220/923 attempted; 0 failures
+B11: 230/923 attempted; 0 failures
+B11: 240/923 attempted; 0 failures
+B11: 250/923 attempted; 0 failures
+B11: 260/923 attempted; 0 failures
+B11: 270/923 attempted; 0 failures
+B11: 280/923 attempted; 0 failures
+B11: 290/923 attempted; 0 failures
+B11: 300/923 attempted; 0 failures
+B11: 310/923 attempted; 0 failures
+B11: 320/923 attempted; 0 failures
+B11: 330/923 attempted; 0 failures
+B11: 340/923 attempted; 0 failures
+B11: 350/923 attempted; 0 failures
+B11: 360/923 attempted; 0 failures
+B11: 370/923 attempted; 0 failures
+B11: 380/923 attempted; 0 failures
+B11: 390/923 attempted; 0 failures
+B11: 400/923 attempted; 0 failures
+B11: 410/923 attempted; 0 failures
+B11: 420/923 attempted; 0 failures
+B11: 430/923 attempted; 0 failures
+B11: 440/923 attempted; 0 failures
+B11: 450/923 attempted; 0 failures
+B11: 460/923 attempted; 0 failures
+B11: 470/923 attempted; 0 failures
+B11: 480/923 attempted; 0 failures
+B11: 490/923 attempted; 0 failures
+B11: 500/923 attempted; 0 failures
+B11: 510/923 attempted; 0 failures
+B11: 520/923 attempted; 0 failures
+B11: 530/923 attempted; 0 failures
+B11: 540/923 attempted; 0 failures
+B11: 550/923 attempted; 0 failures
+B11: 560/923 attempted; 0 failures
+B11: 570/923 attempted; 0 failures
+B11: 580/923 attempted; 0 failures
+B11: 590/923 attempted; 0 failures
+B11: 600/923 attempted; 0 failures
+B11: 610/923 attempted; 0 failures
+B11: 620/923 attempted; 0 failures
+B11: 630/923 attempted; 0 failures
+B11: 640/923 attempted; 0 failures
+B11: 650/923 attempted; 0 failures
+B11: 660/923 attempted; 0 failures
+B11: 670/923 attempted; 0 failures
+B11: 680/923 attempted; 0 failures
+B11: 690/923 attempted; 0 failures
+B11: 700/923 attempted; 0 failures
+B11: 710/923 attempted; 0 failures
+B11: 720/923 attempted; 0 failures
+B11: 730/923 attempted; 0 failures
+B11: 740/923 attempted; 0 failures
+B11: 750/923 attempted; 0 failures
+B11: 760/923 attempted; 0 failures
+B11: 770/923 attempted; 0 failures
+B11: 780/923 attempted; 0 failures
+B11: 790/923 attempted; 0 failures
+B11: 800/923 attempted; 0 failures
+B11: 810/923 attempted; 0 failures
+B11: 820/923 attempted; 0 failures
+B11: 830/923 attempted; 0 failures
+B11: 840/923 attempted; 0 failures
+B11: 850/923 attempted; 0 failures
+B11: 860/923 attempted; 0 failures
+B11: 870/923 attempted; 0 failures
+B11: 880/923 attempted; 0 failures
+B11: 890/923 attempted; 0 failures
+B11: 900/923 attempted; 0 failures
+B11: 910/923 attempted; 0 failures
+B11: 920/923 attempted; 0 failures
+B11: 923/923 attempted; 0 failures
+B12: 679 x 674, 1837 scenes
+B12: 10/1837 attempted; 0 failures
+B12: 20/1837 attempted; 0 failures
+B12: 30/1837 attempted; 0 failures
+B12: 40/1837 attempted; 0 failures
+B12: 50/1837 attempted; 0 failures
+B12: 60/1837 attempted; 0 failures
+B12: 70/1837 attempted; 0 failures
+B12: 80/1837 attempted; 0 failures
+B12: 90/1837 attempted; 0 failures
+B12: 100/1837 attempted; 0 failures
+B12: 110/1837 attempted; 0 failures
+B12: 120/1837 attempted; 0 failures
+B12: 130/1837 attempted; 0 failures
+B12: 140/1837 attempted; 0 failures
+B12: 150/1837 attempted; 0 failures
+B12: 160/1837 attempted; 0 failures
+B12: 170/1837 attempted; 0 failures
+B12: 180/1837 attempted; 0 failures
+B12: 190/1837 attempted; 0 failures
+B12: 200/1837 attempted; 0 failures
+B12: 210/1837 attempted; 0 failures
+B12: 220/1837 attempted; 0 failures
+B12: 230/1837 attempted; 0 failures
+B12: 240/1837 attempted; 0 failures
+B12: 250/1837 attempted; 0 failures
+B12: 260/1837 attempted; 0 failures
+B12: 270/1837 attempted; 0 failures
+B12: 280/1837 attempted; 0 failures
+B12: 290/1837 attempted; 0 failures
+B12: 300/1837 attempted; 0 failures
+B12: 310/1837 attempted; 0 failures
+B12: 320/1837 attempted; 0 failures
+B12: 330/1837 attempted; 0 failures
+B12: 340/1837 attempted; 0 failures
+B12: 350/1837 attempted; 0 failures
+B12: 360/1837 attempted; 0 failures
+B12: 370/1837 attempted; 0 failures
+B12: 380/1837 attempted; 0 failures
+B12: 390/1837 attempted; 0 failures
+B12: 400/1837 attempted; 0 failures
+B12: 410/1837 attempted; 0 failures
+B12: 420/1837 attempted; 0 failures
+B12: 430/1837 attempted; 0 failures
+B12: 440/1837 attempted; 0 failures
+B12: 450/1837 attempted; 0 failures
+B12: 460/1837 attempted; 0 failures
+B12: 470/1837 attempted; 0 failures
+B12: 480/1837 attempted; 0 failures
+B12: 490/1837 attempted; 0 failures
+B12: 500/1837 attempted; 0 failures
+B12: 510/1837 attempted; 0 failures
+B12: 520/1837 attempted; 0 failures
+B12: 530/1837 attempted; 0 failures
+B12: 540/1837 attempted; 0 failures
+B12: 550/1837 attempted; 0 failures
+B12: 560/1837 attempted; 0 failures
+B12: 570/1837 attempted; 0 failures
+B12: 580/1837 attempted; 0 failures
+B12: 590/1837 attempted; 0 failures
+B12: 600/1837 attempted; 0 failures
+B12: 610/1837 attempted; 0 failures
+B12: 620/1837 attempted; 0 failures
+B12: 630/1837 attempted; 0 failures
+B12: 640/1837 attempted; 0 failures
+B12: 650/1837 attempted; 0 failures
+B12: 660/1837 attempted; 0 failures
+B12: 670/1837 attempted; 0 failures
+B12: 680/1837 attempted; 0 failures
+B12: 690/1837 attempted; 0 failures
+B12: 700/1837 attempted; 0 failures
+B12: 710/1837 attempted; 0 failures
+B12: 720/1837 attempted; 0 failures
+B12: 730/1837 attempted; 0 failures
+B12: 740/1837 attempted; 0 failures
+B12: 750/1837 attempted; 0 failures
+B12: 760/1837 attempted; 0 failures
+B12: 770/1837 attempted; 0 failures
+B12: 780/1837 attempted; 0 failures
+B12: 790/1837 attempted; 0 failures
+B12: 800/1837 attempted; 0 failures
+B12: 810/1837 attempted; 0 failures
+B12: 820/1837 attempted; 0 failures
+B12: 830/1837 attempted; 0 failures
+B12: 840/1837 attempted; 0 failures
+B12: 850/1837 attempted; 0 failures
+B12: 860/1837 attempted; 0 failures
+B12: 870/1837 attempted; 0 failures
+B12: 880/1837 attempted; 0 failures
+B12: 890/1837 attempted; 0 failures
+B12: 900/1837 attempted; 0 failures
+B12: 910/1837 attempted; 0 failures
+B12: 920/1837 attempted; 0 failures
+B12: 930/1837 attempted; 0 failures
+B12: 940/1837 attempted; 0 failures
+B12: 950/1837 attempted; 0 failures
+B12: 960/1837 attempted; 0 failures
+B12: 970/1837 attempted; 0 failures
+B12: 980/1837 attempted; 0 failures
+B12: 990/1837 attempted; 0 failures
+B12: 1000/1837 attempted; 0 failures
+B12: 1010/1837 attempted; 0 failures
+B12: 1020/1837 attempted; 0 failures
+B12: 1030/1837 attempted; 0 failures
+B12: 1040/1837 attempted; 0 failures
+B12: 1050/1837 attempted; 0 failures
+B12: 1060/1837 attempted; 0 failures
+B12: 1070/1837 attempted; 0 failures
+B12: 1080/1837 attempted; 0 failures
+B12: 1090/1837 attempted; 0 failures
+B12: 1100/1837 attempted; 0 failures
+B12: 1110/1837 attempted; 0 failures
+B12: 1120/1837 attempted; 0 failures
+B12: 1130/1837 attempted; 0 failures
+B12: 1140/1837 attempted; 0 failures
+B12: 1150/1837 attempted; 0 failures
+B12: 1160/1837 attempted; 0 failures
+B12: 1170/1837 attempted; 0 failures
+B12: 1180/1837 attempted; 0 failures
+B12: 1190/1837 attempted; 0 failures
+B12: 1200/1837 attempted; 0 failures
+B12: 1210/1837 attempted; 0 failures
+B12: 1220/1837 attempted; 0 failures
+B12: 1230/1837 attempted; 0 failures
+B12: 1240/1837 attempted; 0 failures
+B12: 1250/1837 attempted; 0 failures
+B12: 1260/1837 attempted; 0 failures
+B12: 1270/1837 attempted; 0 failures
+B12: 1280/1837 attempted; 0 failures
+B12: 1290/1837 attempted; 0 failures
+B12: 1300/1837 attempted; 0 failures
+B12: 1310/1837 attempted; 0 failures
+B12: 1320/1837 attempted; 0 failures
+B12: 1330/1837 attempted; 0 failures
+B12: 1340/1837 attempted; 0 failures
+B12: 1350/1837 attempted; 0 failures
+B12: 1360/1837 attempted; 0 failures
+B12: 1370/1837 attempted; 0 failures
+B12: 1380/1837 attempted; 0 failures
+B12: 1390/1837 attempted; 0 failures
+B12: 1400/1837 attempted; 0 failures
+B12: 1410/1837 attempted; 0 failures
+B12: 1420/1837 attempted; 0 failures
+B12: 1430/1837 attempted; 0 failures
+B12: 1440/1837 attempted; 0 failures
+B12: 1450/1837 attempted; 0 failures
+B12: 1460/1837 attempted; 0 failures
+B12: 1470/1837 attempted; 0 failures
+B12: 1480/1837 attempted; 0 failures
+B12: 1490/1837 attempted; 0 failures
+B12: 1500/1837 attempted; 0 failures
+B12: 1510/1837 attempted; 0 failures
+B12: 1520/1837 attempted; 0 failures
+B12: 1530/1837 attempted; 0 failures
+B12: 1540/1837 attempted; 0 failures
+B12: 1550/1837 attempted; 0 failures
+B12: 1560/1837 attempted; 0 failures
+B12: 1570/1837 attempted; 0 failures
+B12: 1580/1837 attempted; 0 failures
+B12: 1590/1837 attempted; 0 failures
+B12: 1600/1837 attempted; 0 failures
+B12: 1610/1837 attempted; 0 failures
+B12: 1620/1837 attempted; 0 failures
+B12: 1630/1837 attempted; 0 failures
+B12: 1640/1837 attempted; 0 failures
+B12: 1650/1837 attempted; 0 failures
+B12: 1660/1837 attempted; 0 failures
+B12: 1670/1837 attempted; 0 failures
+B12: 1680/1837 attempted; 0 failures
+B12: 1690/1837 attempted; 0 failures
+B12: 1700/1837 attempted; 0 failures
+B12: 1710/1837 attempted; 0 failures
+B12: 1720/1837 attempted; 0 failures
+B12: 1730/1837 attempted; 0 failures
+B12: 1740/1837 attempted; 0 failures
+B12: 1750/1837 attempted; 0 failures
+B12: 1760/1837 attempted; 0 failures
+B12: 1770/1837 attempted; 0 failures
+B12: 1780/1837 attempted; 0 failures
+B12: 1790/1837 attempted; 0 failures
+B12: 1800/1837 attempted; 0 failures
+B12: 1810/1837 attempted; 0 failures
+B12: 1820/1837 attempted; 0 failures
+B12: 1830/1837 attempted; 0 failures
+B12: 1837/1837 attempted; 0 failures
+B12_wide: 1993 x 2055, 720 scenes
+B12_wide: 10/720 attempted; 0 failures
+B12_wide: 20/720 attempted; 0 failures
+B12_wide: 30/720 attempted; 0 failures
+B12_wide: 40/720 attempted; 0 failures
+B12_wide: 50/720 attempted; 0 failures
+B12_wide: 60/720 attempted; 0 failures
+B12_wide: 70/720 attempted; 0 failures
+B12_wide: 80/720 attempted; 0 failures
+B12_wide: 90/720 attempted; 0 failures
+B12_wide: 100/720 attempted; 0 failures
+B12_wide: 110/720 attempted; 0 failures
+B12_wide: 120/720 attempted; 0 failures
+B12_wide: 130/720 attempted; 0 failures
+B12_wide: 140/720 attempted; 0 failures
+B12_wide: 150/720 attempted; 0 failures
+B12_wide: 160/720 attempted; 0 failures
+B12_wide: 170/720 attempted; 0 failures
+B12_wide: 180/720 attempted; 0 failures
+B12_wide: 190/720 attempted; 0 failures
+B12_wide: 200/720 attempted; 0 failures
+B12_wide: 210/720 attempted; 0 failures
+B12_wide: 220/720 attempted; 0 failures
+B12_wide: 230/720 attempted; 0 failures
+B12_wide: 240/720 attempted; 0 failures
+B12_wide: 250/720 attempted; 0 failures
+B12_wide: 260/720 attempted; 0 failures
+B12_wide: 270/720 attempted; 0 failures
+B12_wide: 280/720 attempted; 0 failures
+B12_wide: 290/720 attempted; 0 failures
+B12_wide: 300/720 attempted; 0 failures
+B12_wide: 310/720 attempted; 0 failures
+B12_wide: 320/720 attempted; 0 failures
+B12_wide: 330/720 attempted; 0 failures
+B12_wide: 340/720 attempted; 0 failures
+B12_wide: 350/720 attempted; 0 failures
+B12_wide: 360/720 attempted; 0 failures
+B12_wide: 370/720 attempted; 0 failures
+B12_wide: 380/720 attempted; 0 failures
+B12_wide: 390/720 attempted; 0 failures
+B12_wide: 400/720 attempted; 0 failures
+B12_wide: 410/720 attempted; 0 failures
+B12_wide: 420/720 attempted; 0 failures
+B12_wide: 430/720 attempted; 0 failures
+B12_wide: 440/720 attempted; 0 failures
+B12_wide: 450/720 attempted; 0 failures
+B12_wide: 460/720 attempted; 0 failures
+B12_wide: 470/720 attempted; 0 failures
+B12_wide: 480/720 attempted; 0 failures
+B12_wide: 490/720 attempted; 0 failures
+B12_wide: 500/720 attempted; 0 failures
+B12_wide: 510/720 attempted; 0 failures
+B12_wide: 520/720 attempted; 0 failures
+B12_wide: 530/720 attempted; 0 failures
+B12_wide: 540/720 attempted; 0 failures
+B12_wide: 550/720 attempted; 0 failures
+B12_wide: 560/720 attempted; 0 failures
+B12_wide: 570/720 attempted; 0 failures
+B12_wide: 580/720 attempted; 0 failures
+B12_wide: 590/720 attempted; 0 failures
+B12_wide: 600/720 attempted; 0 failures
+B12_wide: 610/720 attempted; 0 failures
+B12_wide: 620/720 attempted; 0 failures
+B12_wide: 630/720 attempted; 0 failures
+B12_wide: 640/720 attempted; 0 failures
+B12_wide: 650/720 attempted; 0 failures
+B12_wide: 660/720 attempted; 0 failures
+B12_wide: 670/720 attempted; 0 failures
+B12_wide: 680/720 attempted; 0 failures
+B12_wide: 690/720 attempted; 0 failures
+B12_wide: 700/720 attempted; 0 failures
+B12_wide: 710/720 attempted; 0 failures
+B12_wide: 720/720 attempted; 0 failures
+andes_north 20 independent tiles
+andes_central 20 independent tiles
+himalaya 27 independent tiles
+new_guinea 45 independent tiles
+B11 923 cached input hashes verified
+B12 1837 cached input hashes verified
+V11 765 cached input hashes verified
+V15 572 cached input hashes verified
+B12_wide 720 cached input hashes verified
+"B11" 1986: 18 scenes, 457646 valid pixels
+"B11" 1987: 5 scenes, 441987 valid pixels
+"B11" 1988: 18 scenes, 457646 valid pixels
+"B11" 1989: 16 scenes, 457646 valid pixels
+"B11" 1990: 13 scenes, 457646 valid pixels
+"B11" 1991: 23 scenes, 457646 valid pixels
+"B11" 1992: 12 scenes, 457242 valid pixels
+"B11" 1993: 18 scenes, 457646 valid pixels
+"B11" 1994: 12 scenes, 457646 valid pixels
+"B11" 1995: 11 scenes, 457646 valid pixels
+"B11" 1996: 18 scenes, 457646 valid pixels
+"B11" 1997: 16 scenes, 457646 valid pixels
+"B11" 1998: 24 scenes, 457646 valid pixels
+"B11" 1999: 22 scenes, 457646 valid pixels
+"B11" 2000: 21 scenes, 457646 valid pixels
+"B11" 2001: 24 scenes, 457646 valid pixels
+"B11" 2002: 22 scenes, 457646 valid pixels
+"B11" 2003: 17 scenes, 457646 valid pixels
+"B11" 2004: 23 scenes, 457646 valid pixels
+"B11" 2005: 20 scenes, 457646 valid pixels
+"B11" 2006: 21 scenes, 457627 valid pixels
+"B11" 2007: 18 scenes, 457646 valid pixels
+"B11" 2008: 21 scenes, 457646 valid pixels
+"B11" 2009: 20 scenes, 457646 valid pixels
+"B11" 2010: 14 scenes, 457646 valid pixels
+"B11" 2011: 20 scenes, 457646 valid pixels
+"B11" 2012: 24 scenes, 457646 valid pixels
+"B11" 2013: 22 scenes, 457646 valid pixels
+"B11" 2014: 23 scenes, 457646 valid pixels
+"B11" 2015: 23 scenes, 457646 valid pixels
+"B11" 2016: 22 scenes, 457646 valid pixels
+"B11" 2017: 22 scenes, 457646 valid pixels
+"B12" 1986: 34 scenes, 457646 valid pixels
+"B12" 1987: 12 scenes, 454636 valid pixels
+"B12" 1988: 39 scenes, 457646 valid pixels
+"B12" 1989: 31 scenes, 457646 valid pixels
+"B12" 1990: 29 scenes, 457646 valid pixels
+"B12" 1991: 44 scenes, 457646 valid pixels
+"B12" 1992: 30 scenes, 457646 valid pixels
+"B12" 1993: 37 scenes, 457646 valid pixels
+"B12" 1994: 30 scenes, 457646 valid pixels
+"B12" 1995: 22 scenes, 457646 valid pixels
+"B12" 1996: 36 scenes, 457646 valid pixels
+"B12" 1997: 32 scenes, 457646 valid pixels
+"B12" 1998: 43 scenes, 457646 valid pixels
+"B12" 1999: 40 scenes, 457646 valid pixels
+"B12" 2000: 35 scenes, 457646 valid pixels
+"B12" 2001: 40 scenes, 457646 valid pixels
+"B12" 2002: 43 scenes, 457646 valid pixels
+"B12" 2003: 22 scenes, 457646 valid pixels
+"B12" 2004: 46 scenes, 457646 valid pixels
+"B12" 2005: 41 scenes, 457646 valid pixels
+"B12" 2006: 40 scenes, 457646 valid pixels
+"B12" 2007: 34 scenes, 457646 valid pixels
+"B12" 2008: 43 scenes, 457646 valid pixels
+"B12" 2009: 41 scenes, 457646 valid pixels
+"B12" 2010: 27 scenes, 457646 valid pixels
+"B12" 2011: 38 scenes, 457646 valid pixels
+"B12" 2012: 46 scenes, 457646 valid pixels
+"B12" 2013: 27 scenes, 457646 valid pixels
+"B12" 2014: 42 scenes, 457646 valid pixels
+"B12" 2015: 46 scenes, 457646 valid pixels
+"B12" 2016: 45 scenes, 457646 valid pixels
+"B12" 2017: 45 scenes, 457646 valid pixels
+"V11" 1986: 18 scenes, 448896 valid pixels
+"V11" 1987: 1 scenes, 414 valid pixels
+"V11" 1989: 1 scenes, 7789 valid pixels
+"V11" 1990: 5 scenes, 370328 valid pixels
+"V11" 1991: 15 scenes, 429734 valid pixels
+"V11" 1996: 14 scenes, 448887 valid pixels
+"V11" 1997: 16 scenes, 448736 valid pixels
+"V11" 1998: 27 scenes, 448896 valid pixels
+"V11" 1999: 23 scenes, 448896 valid pixels
+"V11" 2000: 12 scenes, 448896 valid pixels
+"V11" 2001: 11 scenes, 448894 valid pixels
+"V11" 2002: 13 scenes, 448896 valid pixels
+"V11" 2003: 12 scenes, 444878 valid pixels
+"V11" 2004: 14 scenes, 447474 valid pixels
+"V11" 2005: 14 scenes, 448894 valid pixels
+"V11" 2006: 16 scenes, 437182 valid pixels
+"V11" 2007: 16 scenes, 448865 valid pixels
+"V11" 2008: 18 scenes, 448894 valid pixels
+"V11" 2009: 32 scenes, 447235 valid pixels
+"V11" 2010: 32 scenes, 448896 valid pixels
+"V11" 2011: 44 scenes, 448896 valid pixels
+"V11" 2012: 42 scenes, 412598 valid pixels
+"V11" 2013: 41 scenes, 448896 valid pixels
+"V11" 2014: 26 scenes, 448896 valid pixels
+"V11" 2015: 26 scenes, 448896 valid pixels
+"V11" 2016: 44 scenes, 448896 valid pixels
+"V11" 2017: 39 scenes, 448896 valid pixels
+"V15" 1986: 18 scenes, 450310 valid pixels
+"V15" 1987: 2 scenes, 60375 valid pixels
+"V15" 1989: 2 scenes, 84728 valid pixels
+"V15" 1990: 5 scenes, 4235 valid pixels
+"V15" 1991: 17 scenes, 451554 valid pixels
+"V15" 1996: 7 scenes, 264429 valid pixels
+"V15" 1997: 8 scenes, 449879 valid pixels
+"V15" 1998: 17 scenes, 449911 valid pixels
+"V15" 1999: 20 scenes, 451262 valid pixels
+"V15" 2000: 15 scenes, 451580 valid pixels
+"V15" 2001: 18 scenes, 451580 valid pixels
+"V15" 2002: 18 scenes, 451580 valid pixels
+"V15" 2003: 13 scenes, 451580 valid pixels
+"V15" 2004: 14 scenes, 451580 valid pixels
+"V15" 2005: 16 scenes, 447957 valid pixels
+"V15" 2006: 20 scenes, 430328 valid pixels
+"V15" 2007: 17 scenes, 451419 valid pixels
+"V15" 2008: 13 scenes, 449536 valid pixels
+"V15" 2009: 21 scenes, 451503 valid pixels
+"V15" 2010: 23 scenes, 450937 valid pixels
+"V15" 2011: 23 scenes, 448123 valid pixels
+"V15" 2012: 23 scenes, 451445 valid pixels
+"V15" 2013: 17 scenes, 451580 valid pixels
+"V15" 2014: 23 scenes, 451580 valid pixels
+"V15" 2015: 23 scenes, 451580 valid pixels
+"V15" 2016: 22 scenes, 451580 valid pixels
+"V15" 2017: 23 scenes, 451580 valid pixels
+"B12_wide" 1995: 22 scenes, 4095615 valid pixels
+"B12_wide" 2010: 27 scenes, 4095615 valid pixels
+"B12_wide" 2011: 38 scenes, 4095615 valid pixels
+"B12_wide" 2012: 46 scenes, 4095615 valid pixels
+"B12_wide" 2013: 45 scenes, 4095615 valid pixels
+"B12_wide" 2014: 62 scenes, 4095615 valid pixels
+"B12_wide" 2015: 69 scenes, 4095615 valid pixels
+"B12_wide" 2016: 67 scenes, 4095615 valid pixels
+"B12_wide" 2017: 69 scenes, 4095615 valid pixels
+401 real-data consistency checks; 0 failures
+Recorded 32 panel slots: {'independently reproduced': 4, 'partially reproduced': 15, 'not reproduced': 13}
+Saved losslessly data/saved_outputs/B12/1986_tct.f32.npz 4736531
+Saved losslessly data/saved_outputs/B12/1986_rgb.f32.npz 2531330
+Saved losslessly data/saved_outputs/B12/1986_observations.u16.npz 38628
+Saved losslessly data/saved_outputs/B12/1986_B.u8.npz 5700
+Saved losslessly data/saved_outputs/B12/1986_W.u8.npz 21853
+Saved losslessly data/saved_outputs/B12/1987_tct.f32.npz 4737765
+Saved losslessly data/saved_outputs/B12/1987_rgb.f32.npz 2495855
+Saved losslessly data/saved_outputs/B12/1987_observations.u16.npz 19411
+Saved losslessly data/saved_outputs/B12/1987_B.u8.npz 9798
+Saved losslessly data/saved_outputs/B12/1987_W.u8.npz 20537
+Saved losslessly data/saved_outputs/B12/1988_tct.f32.npz 4759689
+Saved losslessly data/saved_outputs/B12/1988_rgb.f32.npz 2599234
+Saved losslessly data/saved_outputs/B12/1988_observations.u16.npz 33449
+Saved losslessly data/saved_outputs/B12/1988_B.u8.npz 9938
+Saved losslessly data/saved_outputs/B12/1988_W.u8.npz 17792
+Saved losslessly data/saved_outputs/B12/1989_tct.f32.npz 4734349
+Saved losslessly data/saved_outputs/B12/1989_rgb.f32.npz 2534962
+Saved losslessly data/saved_outputs/B12/1989_observations.u16.npz 41104
+Saved losslessly data/saved_outputs/B12/1989_B.u8.npz 5659
+Saved losslessly data/saved_outputs/B12/1989_W.u8.npz 18045
+Saved losslessly data/saved_outputs/B12/1990_tct.f32.npz 4747761
+Saved losslessly data/saved_outputs/B12/1990_rgb.f32.npz 2571589
+Saved losslessly data/saved_outputs/B12/1990_observations.u16.npz 46899
+Saved losslessly data/saved_outputs/B12/1990_B.u8.npz 6744
+Saved losslessly data/saved_outputs/B12/1990_W.u8.npz 28026
+Saved losslessly data/saved_outputs/B12/1991_tct.f32.npz 4751035
+Saved losslessly data/saved_outputs/B12/1991_rgb.f32.npz 2586240
+Saved losslessly data/saved_outputs/B12/1991_observations.u16.npz 90860
+Saved losslessly data/saved_outputs/B12/1991_B.u8.npz 9972
+Saved losslessly data/saved_outputs/B12/1991_W.u8.npz 19627
+Saved losslessly data/saved_outputs/B12/1992_tct.f32.npz 4749166
+Saved losslessly data/saved_outputs/B12/1992_rgb.f32.npz 2559199
+Saved losslessly data/saved_outputs/B12/1992_observations.u16.npz 39956
+Saved losslessly data/saved_outputs/B12/1992_B.u8.npz 6650
+Saved losslessly data/saved_outputs/B12/1992_W.u8.npz 17188
+Saved losslessly data/saved_outputs/B12/1993_tct.f32.npz 4780677
+Saved losslessly data/saved_outputs/B12/1993_rgb.f32.npz 2573906
+Saved losslessly data/saved_outputs/B12/1993_observations.u16.npz 37128
+Saved losslessly data/saved_outputs/B12/1993_B.u8.npz 7905
+Saved losslessly data/saved_outputs/B12/1993_W.u8.npz 23532
+Saved losslessly data/saved_outputs/B12/1994_tct.f32.npz 4788318
+Saved losslessly data/saved_outputs/B12/1994_rgb.f32.npz 2394564
+Saved losslessly data/saved_outputs/B12/1994_observations.u16.npz 27025
+Saved losslessly data/saved_outputs/B12/1994_B.u8.npz 10248
+Saved losslessly data/saved_outputs/B12/1994_W.u8.npz 20626
+Saved losslessly data/saved_outputs/B12/1995_tct.f32.npz 4772160
+Saved losslessly data/saved_outputs/B12/1995_rgb.f32.npz 2495342
+Saved losslessly data/saved_outputs/B12/1995_observations.u16.npz 48599
+Saved losslessly data/saved_outputs/B12/1995_B.u8.npz 7731
+Saved losslessly data/saved_outputs/B12/1995_W.u8.npz 23843
+Saved losslessly data/saved_outputs/B12/1996_tct.f32.npz 4762924
+Saved losslessly data/saved_outputs/B12/1996_rgb.f32.npz 2584938
+Saved losslessly data/saved_outputs/B12/1996_observations.u16.npz 53363
+Saved losslessly data/saved_outputs/B12/1996_B.u8.npz 5384
+Saved losslessly data/saved_outputs/B12/1996_W.u8.npz 23979
+Saved losslessly data/saved_outputs/B12/1997_tct.f32.npz 4740854
+Saved losslessly data/saved_outputs/B12/1997_rgb.f32.npz 2530936
+Saved losslessly data/saved_outputs/B12/1997_observations.u16.npz 41674
+Saved losslessly data/saved_outputs/B12/1997_B.u8.npz 6044
+Saved losslessly data/saved_outputs/B12/1997_W.u8.npz 21757
+Saved losslessly data/saved_outputs/B12/1998_tct.f32.npz 4711472
+Saved losslessly data/saved_outputs/B12/1998_rgb.f32.npz 2527827
+Saved losslessly data/saved_outputs/B12/1998_observations.u16.npz 37813
+Saved losslessly data/saved_outputs/B12/1998_B.u8.npz 7225
+Saved losslessly data/saved_outputs/B12/1998_W.u8.npz 22342
+Saved losslessly data/saved_outputs/B12/1999_tct.f32.npz 4722231
+Saved losslessly data/saved_outputs/B12/1999_rgb.f32.npz 2574445
+Saved losslessly data/saved_outputs/B12/1999_observations.u16.npz 42842
+Saved losslessly data/saved_outputs/B12/1999_B.u8.npz 9792
+Saved losslessly data/saved_outputs/B12/1999_W.u8.npz 20693
+Saved losslessly data/saved_outputs/B12/2000_tct.f32.npz 4732869
+Saved losslessly data/saved_outputs/B12/2000_rgb.f32.npz 2622829
+Saved losslessly data/saved_outputs/B12/2000_observations.u16.npz 53445
+Saved losslessly data/saved_outputs/B12/2000_B.u8.npz 5972
+Saved losslessly data/saved_outputs/B12/2000_W.u8.npz 22033
+Saved losslessly data/saved_outputs/B12/2001_tct.f32.npz 4736097
+Saved losslessly data/saved_outputs/B12/2001_rgb.f32.npz 2597110
+Saved losslessly data/saved_outputs/B12/2001_observations.u16.npz 85576
+Saved losslessly data/saved_outputs/B12/2001_B.u8.npz 5865
+Saved losslessly data/saved_outputs/B12/2001_W.u8.npz 22573
+Saved losslessly data/saved_outputs/B12/2002_tct.f32.npz 4690002
+Saved losslessly data/saved_outputs/B12/2002_rgb.f32.npz 2761986
+Saved losslessly data/saved_outputs/B12/2002_observations.u16.npz 84790
+Saved losslessly data/saved_outputs/B12/2002_B.u8.npz 5244
+Saved losslessly data/saved_outputs/B12/2002_W.u8.npz 32722
+Saved losslessly data/saved_outputs/B12/2003_tct.f32.npz 4740146
+Saved losslessly data/saved_outputs/B12/2003_rgb.f32.npz 2554532
+Saved losslessly data/saved_outputs/B12/2003_observations.u16.npz 39116
+Saved losslessly data/saved_outputs/B12/2003_B.u8.npz 9743
+Saved losslessly data/saved_outputs/B12/2003_W.u8.npz 22359
+Saved losslessly data/saved_outputs/B12/2004_tct.f32.npz 4722543
+Saved losslessly data/saved_outputs/B12/2004_rgb.f32.npz 2660303
+Saved losslessly data/saved_outputs/B12/2004_observations.u16.npz 64015
+Saved losslessly data/saved_outputs/B12/2004_B.u8.npz 3397
+Saved losslessly data/saved_outputs/B12/2004_W.u8.npz 26938
+Saved losslessly data/saved_outputs/B12/2005_tct.f32.npz 4724771
+Saved losslessly data/saved_outputs/B12/2005_rgb.f32.npz 2642513
+Saved losslessly data/saved_outputs/B12/2005_observations.u16.npz 54404
+Saved losslessly data/saved_outputs/B12/2005_B.u8.npz 4247
+Saved losslessly data/saved_outputs/B12/2005_W.u8.npz 24560
+Saved losslessly data/saved_outputs/B12/2006_tct.f32.npz 4730998
+Saved losslessly data/saved_outputs/B12/2006_rgb.f32.npz 2547889
+Saved losslessly data/saved_outputs/B12/2006_observations.u16.npz 48602
+Saved losslessly data/saved_outputs/B12/2006_B.u8.npz 4101
+Saved losslessly data/saved_outputs/B12/2006_W.u8.npz 22624
+Saved losslessly data/saved_outputs/B12/2007_tct.f32.npz 4730658
+Saved losslessly data/saved_outputs/B12/2007_rgb.f32.npz 2667038
+Saved losslessly data/saved_outputs/B12/2007_observations.u16.npz 44704
+Saved losslessly data/saved_outputs/B12/2007_B.u8.npz 8535
+Saved losslessly data/saved_outputs/B12/2007_W.u8.npz 26900
+Saved losslessly data/saved_outputs/B12/2008_tct.f32.npz 4697373
+Saved losslessly data/saved_outputs/B12/2008_rgb.f32.npz 2747752
+Saved losslessly data/saved_outputs/B12/2008_observations.u16.npz 96082
+Saved losslessly data/saved_outputs/B12/2008_B.u8.npz 5998
+Saved losslessly data/saved_outputs/B12/2008_W.u8.npz 36879
+Saved losslessly data/saved_outputs/B12/2009_tct.f32.npz 4727385
+Saved losslessly data/saved_outputs/B12/2009_rgb.f32.npz 2562275
+Saved losslessly data/saved_outputs/B12/2009_observations.u16.npz 45796
+Saved losslessly data/saved_outputs/B12/2009_B.u8.npz 5872
+Saved losslessly data/saved_outputs/B12/2009_W.u8.npz 23459
+Saved losslessly data/saved_outputs/B12/2010_tct.f32.npz 4715572
+Saved losslessly data/saved_outputs/B12/2010_rgb.f32.npz 2616322
+Saved losslessly data/saved_outputs/B12/2010_observations.u16.npz 50047
+Saved losslessly data/saved_outputs/B12/2010_B.u8.npz 7489
+Saved losslessly data/saved_outputs/B12/2010_W.u8.npz 23355
+Saved losslessly data/saved_outputs/B12/2011_tct.f32.npz 4696097
+Saved losslessly data/saved_outputs/B12/2011_rgb.f32.npz 2786721
+Saved losslessly data/saved_outputs/B12/2011_observations.u16.npz 99880
+Saved losslessly data/saved_outputs/B12/2011_B.u8.npz 6666
+Saved losslessly data/saved_outputs/B12/2011_W.u8.npz 32444
+Saved losslessly data/saved_outputs/B12/2012_tct.f32.npz 4709441
+Saved losslessly data/saved_outputs/B12/2012_rgb.f32.npz 2733577
+Saved losslessly data/saved_outputs/B12/2012_observations.u16.npz 95304
+Saved losslessly data/saved_outputs/B12/2012_B.u8.npz 3976
+Saved losslessly data/saved_outputs/B12/2012_W.u8.npz 34034
+Saved losslessly data/saved_outputs/B12/2013_tct.f32.npz 4774474
+Saved losslessly data/saved_outputs/B12/2013_rgb.f32.npz 2799909
+Saved losslessly data/saved_outputs/B12/2013_observations.u16.npz 47371
+Saved losslessly data/saved_outputs/B12/2013_B.u8.npz 8946
+Saved losslessly data/saved_outputs/B12/2013_W.u8.npz 16681
+Saved losslessly data/saved_outputs/B12/2014_tct.f32.npz 4779996
+Saved losslessly data/saved_outputs/B12/2014_rgb.f32.npz 2812140
+Saved losslessly data/saved_outputs/B12/2014_observations.u16.npz 64209
+Saved losslessly data/saved_outputs/B12/2014_B.u8.npz 8281
+Saved losslessly data/saved_outputs/B12/2014_W.u8.npz 19303
+Saved losslessly data/saved_outputs/B12/2015_tct.f32.npz 4745645
+Saved losslessly data/saved_outputs/B12/2015_rgb.f32.npz 2790495
+Saved losslessly data/saved_outputs/B12/2015_observations.u16.npz 80430
+Saved losslessly data/saved_outputs/B12/2015_B.u8.npz 7347
+Saved losslessly data/saved_outputs/B12/2015_W.u8.npz 17079
+Saved losslessly data/saved_outputs/B12/2016_tct.f32.npz 4767609
+Saved losslessly data/saved_outputs/B12/2016_rgb.f32.npz 2783631
+Saved losslessly data/saved_outputs/B12/2016_observations.u16.npz 45908
+Saved losslessly data/saved_outputs/B12/2016_B.u8.npz 11887
+Saved losslessly data/saved_outputs/B12/2016_W.u8.npz 16165
+Saved losslessly data/saved_outputs/B12/2017_tct.f32.npz 4701143
+Saved losslessly data/saved_outputs/B12/2017_rgb.f32.npz 2755610
+Saved losslessly data/saved_outputs/B12/2017_observations.u16.npz 113754
+Saved losslessly data/saved_outputs/B12/2017_B.u8.npz 6115
+Saved losslessly data/saved_outputs/B12/2017_W.u8.npz 32122
+Saved losslessly data/saved_outputs/B12/candidate_years_B.u16.npz 75483
+Saved losslessly data/saved_outputs/B12/candidate_years_W.u16.npz 173549
+Saved losslessly data/saved_outputs/B12/coverage_years.u16.npz 1969
+Saved losslessly data/saved_outputs/B11/1986_tct.f32.npz 4660300
+Saved losslessly data/saved_outputs/B11/1986_rgb.f32.npz 2363995
+Saved losslessly data/saved_outputs/B11/1986_observations.u16.npz 26090
+Saved losslessly data/saved_outputs/B11/1986_B.u8.npz 4745
+Saved losslessly data/saved_outputs/B11/1986_W.u8.npz 22456
+Saved losslessly data/saved_outputs/B11/1987_tct.f32.npz 4515632
+Saved losslessly data/saved_outputs/B11/1987_rgb.f32.npz 1888383
+Saved losslessly data/saved_outputs/B11/1987_observations.u16.npz 8678
+Saved losslessly data/saved_outputs/B11/1987_B.u8.npz 7182
+Saved losslessly data/saved_outputs/B11/1987_W.u8.npz 20841
+Saved losslessly data/saved_outputs/B11/1988_tct.f32.npz 4667416
+Saved losslessly data/saved_outputs/B11/1988_rgb.f32.npz 2326219
+Saved losslessly data/saved_outputs/B11/1988_observations.u16.npz 16907
+Saved losslessly data/saved_outputs/B11/1988_B.u8.npz 4992
+Saved losslessly data/saved_outputs/B11/1988_W.u8.npz 23981
+Saved losslessly data/saved_outputs/B11/1989_tct.f32.npz 4655281
+Saved losslessly data/saved_outputs/B11/1989_rgb.f32.npz 2403003
+Saved losslessly data/saved_outputs/B11/1989_observations.u16.npz 24743
+Saved losslessly data/saved_outputs/B11/1989_B.u8.npz 4543
+Saved losslessly data/saved_outputs/B11/1989_W.u8.npz 23231
+Saved losslessly data/saved_outputs/B11/1990_tct.f32.npz 4714982
+Saved losslessly data/saved_outputs/B11/1990_rgb.f32.npz 2597103
+Saved losslessly data/saved_outputs/B11/1990_observations.u16.npz 36908
+Saved losslessly data/saved_outputs/B11/1990_B.u8.npz 9227
+Saved losslessly data/saved_outputs/B11/1990_W.u8.npz 30668
+Saved losslessly data/saved_outputs/B11/1991_tct.f32.npz 4678472
+Saved losslessly data/saved_outputs/B11/1991_rgb.f32.npz 2496748
+Saved losslessly data/saved_outputs/B11/1991_observations.u16.npz 76854
+Saved losslessly data/saved_outputs/B11/1991_B.u8.npz 8329
+Saved losslessly data/saved_outputs/B11/1991_W.u8.npz 30532
+Saved losslessly data/saved_outputs/B11/1992_tct.f32.npz 4690380
+Saved losslessly data/saved_outputs/B11/1992_rgb.f32.npz 2247951
+Saved losslessly data/saved_outputs/B11/1992_observations.u16.npz 26073
+Saved losslessly data/saved_outputs/B11/1992_B.u8.npz 10225
+Saved losslessly data/saved_outputs/B11/1992_W.u8.npz 32498
+Saved losslessly data/saved_outputs/B11/1993_tct.f32.npz 4730306
+Saved losslessly data/saved_outputs/B11/1993_rgb.f32.npz 2558808
+Saved losslessly data/saved_outputs/B11/1993_observations.u16.npz 25658
+Saved losslessly data/saved_outputs/B11/1993_B.u8.npz 12006
+Saved losslessly data/saved_outputs/B11/1993_W.u8.npz 32318
+Saved losslessly data/saved_outputs/B11/1994_tct.f32.npz 4697714
+Saved losslessly data/saved_outputs/B11/1994_rgb.f32.npz 2353234
+Saved losslessly data/saved_outputs/B11/1994_observations.u16.npz 15718
+Saved losslessly data/saved_outputs/B11/1994_B.u8.npz 4775
+Saved losslessly data/saved_outputs/B11/1994_W.u8.npz 31675
+Saved losslessly data/saved_outputs/B11/1995_tct.f32.npz 4698173
+Saved losslessly data/saved_outputs/B11/1995_rgb.f32.npz 2297792
+Saved losslessly data/saved_outputs/B11/1995_observations.u16.npz 34638
+Saved losslessly data/saved_outputs/B11/1995_B.u8.npz 4899
+Saved losslessly data/saved_outputs/B11/1995_W.u8.npz 27250
+Saved losslessly data/saved_outputs/B11/1996_tct.f32.npz 4683074
+Saved losslessly data/saved_outputs/B11/1996_rgb.f32.npz 2366511
+Saved losslessly data/saved_outputs/B11/1996_observations.u16.npz 20014
+Saved losslessly data/saved_outputs/B11/1996_B.u8.npz 4865
+Saved losslessly data/saved_outputs/B11/1996_W.u8.npz 37832
+Saved losslessly data/saved_outputs/B11/1997_tct.f32.npz 4657560
+Saved losslessly data/saved_outputs/B11/1997_rgb.f32.npz 2404538
+Saved losslessly data/saved_outputs/B11/1997_observations.u16.npz 34741
+Saved losslessly data/saved_outputs/B11/1997_B.u8.npz 5883
+Saved losslessly data/saved_outputs/B11/1997_W.u8.npz 27506
+Saved losslessly data/saved_outputs/B11/1998_tct.f32.npz 4624213
+Saved losslessly data/saved_outputs/B11/1998_rgb.f32.npz 2441304
+Saved losslessly data/saved_outputs/B11/1998_observations.u16.npz 38576
+Saved losslessly data/saved_outputs/B11/1998_B.u8.npz 4515
+Saved losslessly data/saved_outputs/B11/1998_W.u8.npz 30701
+Saved losslessly data/saved_outputs/B11/1999_tct.f32.npz 4633062
+Saved losslessly data/saved_outputs/B11/1999_rgb.f32.npz 2431887
+Saved losslessly data/saved_outputs/B11/1999_observations.u16.npz 27971
+Saved losslessly data/saved_outputs/B11/1999_B.u8.npz 4821
+Saved losslessly data/saved_outputs/B11/1999_W.u8.npz 31085
+Saved losslessly data/saved_outputs/B11/2000_tct.f32.npz 4636625
+Saved losslessly data/saved_outputs/B11/2000_rgb.f32.npz 2568794
+Saved losslessly data/saved_outputs/B11/2000_observations.u16.npz 37911
+Saved losslessly data/saved_outputs/B11/2000_B.u8.npz 4270
+Saved losslessly data/saved_outputs/B11/2000_W.u8.npz 51613
+Saved losslessly data/saved_outputs/B11/2001_tct.f32.npz 4641702
+Saved losslessly data/saved_outputs/B11/2001_rgb.f32.npz 2479251
+Saved losslessly data/saved_outputs/B11/2001_observations.u16.npz 55443
+Saved losslessly data/saved_outputs/B11/2001_B.u8.npz 3666
+Saved losslessly data/saved_outputs/B11/2001_W.u8.npz 29127
+Saved losslessly data/saved_outputs/B11/2002_tct.f32.npz 4617468
+Saved losslessly data/saved_outputs/B11/2002_rgb.f32.npz 2537717
+Saved losslessly data/saved_outputs/B11/2002_observations.u16.npz 56700
+Saved losslessly data/saved_outputs/B11/2002_B.u8.npz 4665
+Saved losslessly data/saved_outputs/B11/2002_W.u8.npz 49218
+Saved losslessly data/saved_outputs/B11/2003_tct.f32.npz 4624925
+Saved losslessly data/saved_outputs/B11/2003_rgb.f32.npz 2557795
+Saved losslessly data/saved_outputs/B11/2003_observations.u16.npz 63498
+Saved losslessly data/saved_outputs/B11/2003_B.u8.npz 5293
+Saved losslessly data/saved_outputs/B11/2003_W.u8.npz 51108
+Saved losslessly data/saved_outputs/B11/2004_tct.f32.npz 4658791
+Saved losslessly data/saved_outputs/B11/2004_rgb.f32.npz 2580670
+Saved losslessly data/saved_outputs/B11/2004_observations.u16.npz 52353
+Saved losslessly data/saved_outputs/B11/2004_B.u8.npz 4075
+Saved losslessly data/saved_outputs/B11/2004_W.u8.npz 35452
+Saved losslessly data/saved_outputs/B11/2005_tct.f32.npz 4650496
+Saved losslessly data/saved_outputs/B11/2005_rgb.f32.npz 2412653
+Saved losslessly data/saved_outputs/B11/2005_observations.u16.npz 32267
+Saved losslessly data/saved_outputs/B11/2005_B.u8.npz 4120
+Saved losslessly data/saved_outputs/B11/2005_W.u8.npz 34511
+Saved losslessly data/saved_outputs/B11/2006_tct.f32.npz 4630221
+Saved losslessly data/saved_outputs/B11/2006_rgb.f32.npz 2555976
+Saved losslessly data/saved_outputs/B11/2006_observations.u16.npz 65651
+Saved losslessly data/saved_outputs/B11/2006_B.u8.npz 6478
+Saved losslessly data/saved_outputs/B11/2006_W.u8.npz 50799
+Saved losslessly data/saved_outputs/B11/2007_tct.f32.npz 4658562
+Saved losslessly data/saved_outputs/B11/2007_rgb.f32.npz 2555476
+Saved losslessly data/saved_outputs/B11/2007_observations.u16.npz 41434
+Saved losslessly data/saved_outputs/B11/2007_B.u8.npz 6274
+Saved losslessly data/saved_outputs/B11/2007_W.u8.npz 37617
+Saved losslessly data/saved_outputs/B11/2008_tct.f32.npz 4639752
+Saved losslessly data/saved_outputs/B11/2008_rgb.f32.npz 2578912
+Saved losslessly data/saved_outputs/B11/2008_observations.u16.npz 63440
+Saved losslessly data/saved_outputs/B11/2008_B.u8.npz 4579
+Saved losslessly data/saved_outputs/B11/2008_W.u8.npz 51711
+Saved losslessly data/saved_outputs/B11/2009_tct.f32.npz 4650205
+Saved losslessly data/saved_outputs/B11/2009_rgb.f32.npz 2368112
+Saved losslessly data/saved_outputs/B11/2009_observations.u16.npz 28766
+Saved losslessly data/saved_outputs/B11/2009_B.u8.npz 4061
+Saved losslessly data/saved_outputs/B11/2009_W.u8.npz 29774
+Saved losslessly data/saved_outputs/B11/2010_tct.f32.npz 4625482
+Saved losslessly data/saved_outputs/B11/2010_rgb.f32.npz 2197072
+Saved losslessly data/saved_outputs/B11/2010_observations.u16.npz 20969
+Saved losslessly data/saved_outputs/B11/2010_B.u8.npz 5201
+Saved losslessly data/saved_outputs/B11/2010_W.u8.npz 35320
+Saved losslessly data/saved_outputs/B11/2011_tct.f32.npz 4618983
+Saved losslessly data/saved_outputs/B11/2011_rgb.f32.npz 2595622
+Saved losslessly data/saved_outputs/B11/2011_observations.u16.npz 68488
+Saved losslessly data/saved_outputs/B11/2011_B.u8.npz 6291
+Saved losslessly data/saved_outputs/B11/2011_W.u8.npz 45299
+Saved losslessly data/saved_outputs/B11/2012_tct.f32.npz 4624910
+Saved losslessly data/saved_outputs/B11/2012_rgb.f32.npz 2506352
+Saved losslessly data/saved_outputs/B11/2012_observations.u16.npz 54756
+Saved losslessly data/saved_outputs/B11/2012_B.u8.npz 6157
+Saved losslessly data/saved_outputs/B11/2012_W.u8.npz 51315
+Saved losslessly data/saved_outputs/B11/2013_tct.f32.npz 4605901
+Saved losslessly data/saved_outputs/B11/2013_rgb.f32.npz 2537424
+Saved losslessly data/saved_outputs/B11/2013_observations.u16.npz 59791
+Saved losslessly data/saved_outputs/B11/2013_B.u8.npz 5088
+Saved losslessly data/saved_outputs/B11/2013_W.u8.npz 50200
+Saved losslessly data/saved_outputs/B11/2014_tct.f32.npz 4580710
+Saved losslessly data/saved_outputs/B11/2014_rgb.f32.npz 2549632
+Saved losslessly data/saved_outputs/B11/2014_observations.u16.npz 70575
+Saved losslessly data/saved_outputs/B11/2014_B.u8.npz 7832
+Saved losslessly data/saved_outputs/B11/2014_W.u8.npz 47326
+Saved losslessly data/saved_outputs/B11/2015_tct.f32.npz 4665330
+Saved losslessly data/saved_outputs/B11/2015_rgb.f32.npz 2668369
+Saved losslessly data/saved_outputs/B11/2015_observations.u16.npz 50977
+Saved losslessly data/saved_outputs/B11/2015_B.u8.npz 6746
+Saved losslessly data/saved_outputs/B11/2015_W.u8.npz 27443
+Saved losslessly data/saved_outputs/B11/2016_tct.f32.npz 4702713
+Saved losslessly data/saved_outputs/B11/2016_rgb.f32.npz 2628771
+Saved losslessly data/saved_outputs/B11/2016_observations.u16.npz 36107
+Saved losslessly data/saved_outputs/B11/2016_B.u8.npz 6611
+Saved losslessly data/saved_outputs/B11/2016_W.u8.npz 33357
+Saved losslessly data/saved_outputs/B11/2017_tct.f32.npz 4632516
+Saved losslessly data/saved_outputs/B11/2017_rgb.f32.npz 2635415
+Saved losslessly data/saved_outputs/B11/2017_observations.u16.npz 83225
+Saved losslessly data/saved_outputs/B11/2017_B.u8.npz 6383
+Saved losslessly data/saved_outputs/B11/2017_W.u8.npz 49892
+Saved losslessly data/saved_outputs/B11/candidate_years_B.u16.npz 60109
+Saved losslessly data/saved_outputs/B11/candidate_years_W.u16.npz 253216
+Saved losslessly data/saved_outputs/B11/coverage_years.u16.npz 2900
+Saved losslessly data/saved_outputs/V15/1986_tct.f32.npz 4770605
+Saved losslessly data/saved_outputs/V15/1986_rgb.f32.npz 2991108
+Saved losslessly data/saved_outputs/V15/1986_observations.u16.npz 31859
+Saved losslessly data/saved_outputs/V15/1986_B.u8.npz 17026
+Saved losslessly data/saved_outputs/V15/1986_W.u8.npz 27173
+Saved losslessly data/saved_outputs/V15/1987_tct.f32.npz 650280
+Saved losslessly data/saved_outputs/V15/1987_rgb.f32.npz 177778
+Saved losslessly data/saved_outputs/V15/1987_observations.u16.npz 3502
+Saved losslessly data/saved_outputs/V15/1987_B.u8.npz 2716
+Saved losslessly data/saved_outputs/V15/1987_W.u8.npz 4261
+Saved losslessly data/saved_outputs/V15/1989_tct.f32.npz 938694
+Saved losslessly data/saved_outputs/V15/1989_rgb.f32.npz 491228
+Saved losslessly data/saved_outputs/V15/1989_observations.u16.npz 8068
+Saved losslessly data/saved_outputs/V15/1989_B.u8.npz 4609
+Saved losslessly data/saved_outputs/V15/1989_W.u8.npz 7889
+Saved losslessly data/saved_outputs/V15/1990_tct.f32.npz 56047
+Saved losslessly data/saved_outputs/V15/1990_rgb.f32.npz 28423
+Saved losslessly data/saved_outputs/V15/1990_observations.u16.npz 1605
+Saved losslessly data/saved_outputs/V15/1990_B.u8.npz 957
+Saved losslessly data/saved_outputs/V15/1990_W.u8.npz 1270
+Saved losslessly data/saved_outputs/V15/1991_tct.f32.npz 4719279
+Saved losslessly data/saved_outputs/V15/1991_rgb.f32.npz 2735969
+Saved losslessly data/saved_outputs/V15/1991_observations.u16.npz 30301
+Saved losslessly data/saved_outputs/V15/1991_B.u8.npz 12492
+Saved losslessly data/saved_outputs/V15/1991_W.u8.npz 28876
+Saved losslessly data/saved_outputs/V15/1996_tct.f32.npz 2867412
+Saved losslessly data/saved_outputs/V15/1996_rgb.f32.npz 1759330
+Saved losslessly data/saved_outputs/V15/1996_observations.u16.npz 15608
+Saved losslessly data/saved_outputs/V15/1996_B.u8.npz 12854
+Saved losslessly data/saved_outputs/V15/1996_W.u8.npz 15239
+Saved losslessly data/saved_outputs/V15/1997_tct.f32.npz 4704417
+Saved losslessly data/saved_outputs/V15/1997_rgb.f32.npz 2621079
+Saved losslessly data/saved_outputs/V15/1997_observations.u16.npz 7429
+Saved losslessly data/saved_outputs/V15/1997_B.u8.npz 17082
+Saved losslessly data/saved_outputs/V15/1997_W.u8.npz 25664
+Saved losslessly data/saved_outputs/V15/1998_tct.f32.npz 4741638
+Saved losslessly data/saved_outputs/V15/1998_rgb.f32.npz 2707363
+Saved losslessly data/saved_outputs/V15/1998_observations.u16.npz 25403
+Saved losslessly data/saved_outputs/V15/1998_B.u8.npz 12821
+Saved losslessly data/saved_outputs/V15/1998_W.u8.npz 23438
+Saved losslessly data/saved_outputs/V15/1999_tct.f32.npz 4724298
+Saved losslessly data/saved_outputs/V15/1999_rgb.f32.npz 2832433
+Saved losslessly data/saved_outputs/V15/1999_observations.u16.npz 28558
+Saved losslessly data/saved_outputs/V15/1999_B.u8.npz 17184
+Saved losslessly data/saved_outputs/V15/1999_W.u8.npz 23834
+Saved losslessly data/saved_outputs/V15/2000_tct.f32.npz 4686044
+Saved losslessly data/saved_outputs/V15/2000_rgb.f32.npz 2977858
+Saved losslessly data/saved_outputs/V15/2000_observations.u16.npz 33137
+Saved losslessly data/saved_outputs/V15/2000_B.u8.npz 18639
+Saved losslessly data/saved_outputs/V15/2000_W.u8.npz 23381
+Saved losslessly data/saved_outputs/V15/2001_tct.f32.npz 4688352
+Saved losslessly data/saved_outputs/V15/2001_rgb.f32.npz 3102998
+Saved losslessly data/saved_outputs/V15/2001_observations.u16.npz 55839
+Saved losslessly data/saved_outputs/V15/2001_B.u8.npz 17812
+Saved losslessly data/saved_outputs/V15/2001_W.u8.npz 26626
+Saved losslessly data/saved_outputs/V15/2002_tct.f32.npz 4675889
+Saved losslessly data/saved_outputs/V15/2002_rgb.f32.npz 2848226
+Saved losslessly data/saved_outputs/V15/2002_observations.u16.npz 23678
+Saved losslessly data/saved_outputs/V15/2002_B.u8.npz 14318
+Saved losslessly data/saved_outputs/V15/2002_W.u8.npz 28088
+Saved losslessly data/saved_outputs/V15/2003_tct.f32.npz 4710881
+Saved losslessly data/saved_outputs/V15/2003_rgb.f32.npz 2959861
+Saved losslessly data/saved_outputs/V15/2003_observations.u16.npz 32943
+Saved losslessly data/saved_outputs/V15/2003_B.u8.npz 16403
+Saved losslessly data/saved_outputs/V15/2003_W.u8.npz 28094
+Saved losslessly data/saved_outputs/V15/2004_tct.f32.npz 4692542
+Saved losslessly data/saved_outputs/V15/2004_rgb.f32.npz 3037784
+Saved losslessly data/saved_outputs/V15/2004_observations.u16.npz 49886
+Saved losslessly data/saved_outputs/V15/2004_B.u8.npz 17973
+Saved losslessly data/saved_outputs/V15/2004_W.u8.npz 23052
+Saved losslessly data/saved_outputs/V15/2005_tct.f32.npz 4689787
+Saved losslessly data/saved_outputs/V15/2005_rgb.f32.npz 3238519
+Saved losslessly data/saved_outputs/V15/2005_observations.u16.npz 54655
+Saved losslessly data/saved_outputs/V15/2005_B.u8.npz 19639
+Saved losslessly data/saved_outputs/V15/2005_W.u8.npz 24448
+Saved losslessly data/saved_outputs/V15/2006_tct.f32.npz 4524004
+Saved losslessly data/saved_outputs/V15/2006_rgb.f32.npz 3152069
+Saved losslessly data/saved_outputs/V15/2006_observations.u16.npz 48559
+Saved losslessly data/saved_outputs/V15/2006_B.u8.npz 16768
+Saved losslessly data/saved_outputs/V15/2006_W.u8.npz 23971
+Saved losslessly data/saved_outputs/V15/2007_tct.f32.npz 4696274
+Saved losslessly data/saved_outputs/V15/2007_rgb.f32.npz 3071729
+Saved losslessly data/saved_outputs/V15/2007_observations.u16.npz 49859
+Saved losslessly data/saved_outputs/V15/2007_B.u8.npz 20551
+Saved losslessly data/saved_outputs/V15/2007_W.u8.npz 16182
+Saved losslessly data/saved_outputs/V15/2008_tct.f32.npz 4686738
+Saved losslessly data/saved_outputs/V15/2008_rgb.f32.npz 3135362
+Saved losslessly data/saved_outputs/V15/2008_observations.u16.npz 49993
+Saved losslessly data/saved_outputs/V15/2008_B.u8.npz 18117
+Saved losslessly data/saved_outputs/V15/2008_W.u8.npz 21435
+Saved losslessly data/saved_outputs/V15/2009_tct.f32.npz 4681681
+Saved losslessly data/saved_outputs/V15/2009_rgb.f32.npz 3097182
+Saved losslessly data/saved_outputs/V15/2009_observations.u16.npz 63150
+Saved losslessly data/saved_outputs/V15/2009_B.u8.npz 18542
+Saved losslessly data/saved_outputs/V15/2009_W.u8.npz 20611
+Saved losslessly data/saved_outputs/V15/2010_tct.f32.npz 4694445
+Saved losslessly data/saved_outputs/V15/2010_rgb.f32.npz 3222640
+Saved losslessly data/saved_outputs/V15/2010_observations.u16.npz 65960
+Saved losslessly data/saved_outputs/V15/2010_B.u8.npz 19875
+Saved losslessly data/saved_outputs/V15/2010_W.u8.npz 23633
+Saved losslessly data/saved_outputs/V15/2011_tct.f32.npz 4666308
+Saved losslessly data/saved_outputs/V15/2011_rgb.f32.npz 3145239
+Saved losslessly data/saved_outputs/V15/2011_observations.u16.npz 49723
+Saved losslessly data/saved_outputs/V15/2011_B.u8.npz 17321
+Saved losslessly data/saved_outputs/V15/2011_W.u8.npz 22585
+Saved losslessly data/saved_outputs/V15/2012_tct.f32.npz 4693884
+Saved losslessly data/saved_outputs/V15/2012_rgb.f32.npz 3053954
+Saved losslessly data/saved_outputs/V15/2012_observations.u16.npz 49487
+Saved losslessly data/saved_outputs/V15/2012_B.u8.npz 19345
+Saved losslessly data/saved_outputs/V15/2012_W.u8.npz 17403
+Saved losslessly data/saved_outputs/V15/2013_tct.f32.npz 4716953
+Saved losslessly data/saved_outputs/V15/2013_rgb.f32.npz 3036831
+Saved losslessly data/saved_outputs/V15/2013_observations.u16.npz 25652
+Saved losslessly data/saved_outputs/V15/2013_B.u8.npz 18458
+Saved losslessly data/saved_outputs/V15/2013_W.u8.npz 23764
+Saved losslessly data/saved_outputs/V15/2014_tct.f32.npz 4696832
+Saved losslessly data/saved_outputs/V15/2014_rgb.f32.npz 3030515
+Saved losslessly data/saved_outputs/V15/2014_observations.u16.npz 46244
+Saved losslessly data/saved_outputs/V15/2014_B.u8.npz 19087
+Saved losslessly data/saved_outputs/V15/2014_W.u8.npz 21461
+Saved losslessly data/saved_outputs/V15/2015_tct.f32.npz 4661756
+Saved losslessly data/saved_outputs/V15/2015_rgb.f32.npz 3002802
+Saved losslessly data/saved_outputs/V15/2015_observations.u16.npz 72520
+Saved losslessly data/saved_outputs/V15/2015_B.u8.npz 18194
+Saved losslessly data/saved_outputs/V15/2015_W.u8.npz 20873
+Saved losslessly data/saved_outputs/V15/2016_tct.f32.npz 4700248
+Saved losslessly data/saved_outputs/V15/2016_rgb.f32.npz 2985428
+Saved losslessly data/saved_outputs/V15/2016_observations.u16.npz 55008
+Saved losslessly data/saved_outputs/V15/2016_B.u8.npz 18486
+Saved losslessly data/saved_outputs/V15/2016_W.u8.npz 22324
+Saved losslessly data/saved_outputs/V15/2017_tct.f32.npz 4716719
+Saved losslessly data/saved_outputs/V15/2017_rgb.f32.npz 2950524
+Saved losslessly data/saved_outputs/V15/2017_observations.u16.npz 33612
+Saved losslessly data/saved_outputs/V15/2017_B.u8.npz 17374
+Saved losslessly data/saved_outputs/V15/2017_W.u8.npz 22861
+Saved losslessly data/saved_outputs/V15/candidate_years_B.u16.npz 148689
+Saved losslessly data/saved_outputs/V15/candidate_years_W.u16.npz 174280
+Saved losslessly data/saved_outputs/V15/coverage_years.u16.npz 26824
+Saved losslessly data/saved_outputs/V11/1986_tct.f32.npz 4652074
+Saved losslessly data/saved_outputs/V11/1986_rgb.f32.npz 2602257
+Saved losslessly data/saved_outputs/V11/1986_observations.u16.npz 27729
+Saved losslessly data/saved_outputs/V11/1986_B.u8.npz 8449
+Saved losslessly data/saved_outputs/V11/1986_W.u8.npz 25448
+Saved losslessly data/saved_outputs/V11/1987_tct.f32.npz 10919
+Saved losslessly data/saved_outputs/V11/1987_rgb.f32.npz 7693
+Saved losslessly data/saved_outputs/V11/1987_observations.u16.npz 1269
+Saved losslessly data/saved_outputs/V11/1987_B.u8.npz 710
+Saved losslessly data/saved_outputs/V11/1987_W.u8.npz 732
+Saved losslessly data/saved_outputs/V11/1989_tct.f32.npz 95283
+Saved losslessly data/saved_outputs/V11/1989_rgb.f32.npz 44463
+Saved losslessly data/saved_outputs/V11/1989_observations.u16.npz 2137
+Saved losslessly data/saved_outputs/V11/1989_B.u8.npz 1126
+Saved losslessly data/saved_outputs/V11/1989_W.u8.npz 1286
+Saved losslessly data/saved_outputs/V11/1990_tct.f32.npz 3907043
+Saved losslessly data/saved_outputs/V11/1990_rgb.f32.npz 2176278
+Saved losslessly data/saved_outputs/V11/1990_observations.u16.npz 23856
+Saved losslessly data/saved_outputs/V11/1990_B.u8.npz 11929
+Saved losslessly data/saved_outputs/V11/1990_W.u8.npz 21681
+Saved losslessly data/saved_outputs/V11/1991_tct.f32.npz 4493236
+Saved losslessly data/saved_outputs/V11/1991_rgb.f32.npz 2464974
+Saved losslessly data/saved_outputs/V11/1991_observations.u16.npz 35437
+Saved losslessly data/saved_outputs/V11/1991_B.u8.npz 12155
+Saved losslessly data/saved_outputs/V11/1991_W.u8.npz 26962
+Saved losslessly data/saved_outputs/V11/1996_tct.f32.npz 4706597
+Saved losslessly data/saved_outputs/V11/1996_rgb.f32.npz 2450642
+Saved losslessly data/saved_outputs/V11/1996_observations.u16.npz 24723
+Saved losslessly data/saved_outputs/V11/1996_B.u8.npz 11069
+Saved losslessly data/saved_outputs/V11/1996_W.u8.npz 22781
+Saved losslessly data/saved_outputs/V11/1997_tct.f32.npz 4671103
+Saved losslessly data/saved_outputs/V11/1997_rgb.f32.npz 2676069
+Saved losslessly data/saved_outputs/V11/1997_observations.u16.npz 25064
+Saved losslessly data/saved_outputs/V11/1997_B.u8.npz 12653
+Saved losslessly data/saved_outputs/V11/1997_W.u8.npz 22105
+Saved losslessly data/saved_outputs/V11/1998_tct.f32.npz 4676593
+Saved losslessly data/saved_outputs/V11/1998_rgb.f32.npz 2636535
+Saved losslessly data/saved_outputs/V11/1998_observations.u16.npz 28225
+Saved losslessly data/saved_outputs/V11/1998_B.u8.npz 13565
+Saved losslessly data/saved_outputs/V11/1998_W.u8.npz 22885
+Saved losslessly data/saved_outputs/V11/1999_tct.f32.npz 4662001
+Saved losslessly data/saved_outputs/V11/1999_rgb.f32.npz 2674076
+Saved losslessly data/saved_outputs/V11/1999_observations.u16.npz 44191
+Saved losslessly data/saved_outputs/V11/1999_B.u8.npz 12406
+Saved losslessly data/saved_outputs/V11/1999_W.u8.npz 20124
+Saved losslessly data/saved_outputs/V11/2000_tct.f32.npz 4668044
+Saved losslessly data/saved_outputs/V11/2000_rgb.f32.npz 2686483
+Saved losslessly data/saved_outputs/V11/2000_observations.u16.npz 29498
+Saved losslessly data/saved_outputs/V11/2000_B.u8.npz 11634
+Saved losslessly data/saved_outputs/V11/2000_W.u8.npz 22471
+Saved losslessly data/saved_outputs/V11/2001_tct.f32.npz 4621777
+Saved losslessly data/saved_outputs/V11/2001_rgb.f32.npz 2784807
+Saved losslessly data/saved_outputs/V11/2001_observations.u16.npz 26598
+Saved losslessly data/saved_outputs/V11/2001_B.u8.npz 11857
+Saved losslessly data/saved_outputs/V11/2001_W.u8.npz 27043
+Saved losslessly data/saved_outputs/V11/2002_tct.f32.npz 4640592
+Saved losslessly data/saved_outputs/V11/2002_rgb.f32.npz 2886934
+Saved losslessly data/saved_outputs/V11/2002_observations.u16.npz 57061
+Saved losslessly data/saved_outputs/V11/2002_B.u8.npz 13827
+Saved losslessly data/saved_outputs/V11/2002_W.u8.npz 27019
+Saved losslessly data/saved_outputs/V11/2003_tct.f32.npz 4641551
+Saved losslessly data/saved_outputs/V11/2003_rgb.f32.npz 3069247
+Saved losslessly data/saved_outputs/V11/2003_observations.u16.npz 51430
+Saved losslessly data/saved_outputs/V11/2003_B.u8.npz 17185
+Saved losslessly data/saved_outputs/V11/2003_W.u8.npz 21929
+Saved losslessly data/saved_outputs/V11/2004_tct.f32.npz 4650926
+Saved losslessly data/saved_outputs/V11/2004_rgb.f32.npz 3032083
+Saved losslessly data/saved_outputs/V11/2004_observations.u16.npz 68895
+Saved losslessly data/saved_outputs/V11/2004_B.u8.npz 14010
+Saved losslessly data/saved_outputs/V11/2004_W.u8.npz 28640
+Saved losslessly data/saved_outputs/V11/2005_tct.f32.npz 4627043
+Saved losslessly data/saved_outputs/V11/2005_rgb.f32.npz 2881826
+Saved losslessly data/saved_outputs/V11/2005_observations.u16.npz 58906
+Saved losslessly data/saved_outputs/V11/2005_B.u8.npz 14020
+Saved losslessly data/saved_outputs/V11/2005_W.u8.npz 25998
+Saved losslessly data/saved_outputs/V11/2006_tct.f32.npz 4554415
+Saved losslessly data/saved_outputs/V11/2006_rgb.f32.npz 2964847
+Saved losslessly data/saved_outputs/V11/2006_observations.u16.npz 49413
+Saved losslessly data/saved_outputs/V11/2006_B.u8.npz 9828
+Saved losslessly data/saved_outputs/V11/2006_W.u8.npz 21681
+Saved losslessly data/saved_outputs/V11/2007_tct.f32.npz 4643266
+Saved losslessly data/saved_outputs/V11/2007_rgb.f32.npz 2853890
+Saved losslessly data/saved_outputs/V11/2007_observations.u16.npz 42595
+Saved losslessly data/saved_outputs/V11/2007_B.u8.npz 17268
+Saved losslessly data/saved_outputs/V11/2007_W.u8.npz 23708
+Saved losslessly data/saved_outputs/V11/2008_tct.f32.npz 4654910
+Saved losslessly data/saved_outputs/V11/2008_rgb.f32.npz 2950703
+Saved losslessly data/saved_outputs/V11/2008_observations.u16.npz 64019
+Saved losslessly data/saved_outputs/V11/2008_B.u8.npz 16351
+Saved losslessly data/saved_outputs/V11/2008_W.u8.npz 21176
+Saved losslessly data/saved_outputs/V11/2009_tct.f32.npz 4616407
+Saved losslessly data/saved_outputs/V11/2009_rgb.f32.npz 2870539
+Saved losslessly data/saved_outputs/V11/2009_observations.u16.npz 64145
+Saved losslessly data/saved_outputs/V11/2009_B.u8.npz 14599
+Saved losslessly data/saved_outputs/V11/2009_W.u8.npz 24898
+Saved losslessly data/saved_outputs/V11/2010_tct.f32.npz 4643274
+Saved losslessly data/saved_outputs/V11/2010_rgb.f32.npz 2944605
+Saved losslessly data/saved_outputs/V11/2010_observations.u16.npz 76245
+Saved losslessly data/saved_outputs/V11/2010_B.u8.npz 17081
+Saved losslessly data/saved_outputs/V11/2010_W.u8.npz 21043
+Saved losslessly data/saved_outputs/V11/2011_tct.f32.npz 4645811
+Saved losslessly data/saved_outputs/V11/2011_rgb.f32.npz 2996418
+Saved losslessly data/saved_outputs/V11/2011_observations.u16.npz 61801
+Saved losslessly data/saved_outputs/V11/2011_B.u8.npz 17156
+Saved losslessly data/saved_outputs/V11/2011_W.u8.npz 21864
+Saved losslessly data/saved_outputs/V11/2012_tct.f32.npz 4302581
+Saved losslessly data/saved_outputs/V11/2012_rgb.f32.npz 2755408
+Saved losslessly data/saved_outputs/V11/2012_observations.u16.npz 54347
+Saved losslessly data/saved_outputs/V11/2012_B.u8.npz 11396
+Saved losslessly data/saved_outputs/V11/2012_W.u8.npz 24021
+Saved losslessly data/saved_outputs/V11/2013_tct.f32.npz 4639354
+Saved losslessly data/saved_outputs/V11/2013_rgb.f32.npz 2929532
+Saved losslessly data/saved_outputs/V11/2013_observations.u16.npz 83173
+Saved losslessly data/saved_outputs/V11/2013_B.u8.npz 16258
+Saved losslessly data/saved_outputs/V11/2013_W.u8.npz 24949
+Saved losslessly data/saved_outputs/V11/2014_tct.f32.npz 4685057
+Saved losslessly data/saved_outputs/V11/2014_rgb.f32.npz 2865784
+Saved losslessly data/saved_outputs/V11/2014_observations.u16.npz 63643
+Saved losslessly data/saved_outputs/V11/2014_B.u8.npz 17163
+Saved losslessly data/saved_outputs/V11/2014_W.u8.npz 19013
+Saved losslessly data/saved_outputs/V11/2015_tct.f32.npz 4690413
+Saved losslessly data/saved_outputs/V11/2015_rgb.f32.npz 2836550
+Saved losslessly data/saved_outputs/V11/2015_observations.u16.npz 42074
+Saved losslessly data/saved_outputs/V11/2015_B.u8.npz 15143
+Saved losslessly data/saved_outputs/V11/2015_W.u8.npz 20414
+Saved losslessly data/saved_outputs/V11/2016_tct.f32.npz 4632103
+Saved losslessly data/saved_outputs/V11/2016_rgb.f32.npz 2874154
+Saved losslessly data/saved_outputs/V11/2016_observations.u16.npz 71505
+Saved losslessly data/saved_outputs/V11/2016_B.u8.npz 17489
+Saved losslessly data/saved_outputs/V11/2016_W.u8.npz 21371
+Saved losslessly data/saved_outputs/V11/2017_tct.f32.npz 4617375
+Saved losslessly data/saved_outputs/V11/2017_rgb.f32.npz 2837541
+Saved losslessly data/saved_outputs/V11/2017_observations.u16.npz 90877
+Saved losslessly data/saved_outputs/V11/2017_B.u8.npz 14517
+Saved losslessly data/saved_outputs/V11/2017_W.u8.npz 23279
+Saved losslessly data/saved_outputs/V11/candidate_years_B.u16.npz 122809
+Saved losslessly data/saved_outputs/V11/candidate_years_W.u16.npz 174638
+Saved losslessly data/saved_outputs/V11/coverage_years.u16.npz 22587
+Saved losslessly data/saved_outputs/V11/event__parent_mask.u8.npz 1436
+Saved losslessly data/saved_outputs/V11/event__avulsion_mask.u8.npz 1570
+Saved losslessly data/saved_outputs/V11/event__fingerprint_B.u16.npz 3562
+Saved losslessly data/saved_outputs/V11/event__parent_B.u16.npz 1524
+Saved losslessly data/saved_outputs/V11/event__fingerprint_W.u16.npz 10840
+Saved losslessly data/saved_outputs/V11/event__parent_W.u16.npz 2790
+Saved losslessly data/saved_outputs/B12_wide/1995_tct.f32.npz 43074013
+Saved losslessly data/saved_outputs/B12_wide/1995_rgb.f32.npz 23917733
+Saved losslessly data/saved_outputs/B12_wide/1995_observations.u16.npz 361327
+Saved losslessly data/saved_outputs/B12_wide/1995_B.u8.npz 93964
+Saved losslessly data/saved_outputs/B12_wide/1995_W.u8.npz 117672
+Saved losslessly data/saved_outputs/B12_wide/2010_tct.f32.npz 42834293
+Saved losslessly data/saved_outputs/B12_wide/2010_rgb.f32.npz 24925738
+Saved losslessly data/saved_outputs/B12_wide/2010_observations.u16.npz 464882
+Saved losslessly data/saved_outputs/B12_wide/2010_B.u8.npz 124935
+Saved losslessly data/saved_outputs/B12_wide/2010_W.u8.npz 40941
+Saved losslessly data/saved_outputs/B12_wide/2011_tct.f32.npz 42579057
+Saved losslessly data/saved_outputs/B12_wide/2011_rgb.f32.npz 25989767
+Saved losslessly data/saved_outputs/B12_wide/2011_observations.u16.npz 848298
+Saved losslessly data/saved_outputs/B12_wide/2011_B.u8.npz 106532
+Saved losslessly data/saved_outputs/B12_wide/2011_W.u8.npz 74393
+Saved losslessly data/saved_outputs/B12_wide/2012_tct.f32.npz 42627526
+Saved losslessly data/saved_outputs/B12_wide/2012_rgb.f32.npz 25549969
+Saved losslessly data/saved_outputs/B12_wide/2012_observations.u16.npz 879731
+Saved losslessly data/saved_outputs/B12_wide/2012_B.u8.npz 64803
+Saved losslessly data/saved_outputs/B12_wide/2012_W.u8.npz 168332
+Saved losslessly data/saved_outputs/B12_wide/2013_tct.f32.npz 42421508
+Saved losslessly data/saved_outputs/B12_wide/2013_rgb.f32.npz 24634858
+Saved losslessly data/saved_outputs/B12_wide/2013_observations.u16.npz 812575
+Saved losslessly data/saved_outputs/B12_wide/2013_B.u8.npz 65635
+Saved losslessly data/saved_outputs/B12_wide/2013_W.u8.npz 146688
+Saved losslessly data/saved_outputs/B12_wide/2014_tct.f32.npz 43182381
+Saved losslessly data/saved_outputs/B12_wide/2014_rgb.f32.npz 25627999
+Saved losslessly data/saved_outputs/B12_wide/2014_observations.u16.npz 590316
+Saved losslessly data/saved_outputs/B12_wide/2014_B.u8.npz 99766
+Saved losslessly data/saved_outputs/B12_wide/2014_W.u8.npz 115135
+Saved losslessly data/saved_outputs/B12_wide/2015_tct.f32.npz 42965008
+Saved losslessly data/saved_outputs/B12_wide/2015_rgb.f32.npz 25537312
+Saved losslessly data/saved_outputs/B12_wide/2015_observations.u16.npz 815602
+Saved losslessly data/saved_outputs/B12_wide/2015_B.u8.npz 92539
+Saved losslessly data/saved_outputs/B12_wide/2015_W.u8.npz 102982
+Saved losslessly data/saved_outputs/B12_wide/2016_tct.f32.npz 43010994
+Saved losslessly data/saved_outputs/B12_wide/2016_rgb.f32.npz 25553943
+Saved losslessly data/saved_outputs/B12_wide/2016_observations.u16.npz 538134
+Saved losslessly data/saved_outputs/B12_wide/2016_B.u8.npz 132994
+Saved losslessly data/saved_outputs/B12_wide/2016_W.u8.npz 68386
+Saved losslessly data/saved_outputs/B12_wide/2017_tct.f32.npz 43008397
+Saved losslessly data/saved_outputs/B12_wide/2017_rgb.f32.npz 25611817
+Saved losslessly data/saved_outputs/B12_wide/2017_observations.u16.npz 588601
+Saved losslessly data/saved_outputs/B12_wide/2017_B.u8.npz 135634
+Saved losslessly data/saved_outputs/B12_wide/2017_W.u8.npz 87344
+Saved losslessly data/saved_outputs/B12_wide/candidate_years_B.u16.npz 520443
+Saved losslessly data/saved_outputs/B12_wide/candidate_years_W.u16.npz 519612
+Saved losslessly data/saved_outputs/B12_wide/coverage_years.u16.npz 8216
+Saved losslessly data/saved_outputs/B12_wide/event__parent_mask.u8.npz 5329
+Saved losslessly data/saved_outputs/B12_wide/event__avulsion_mask.u8.npz 6694
+Saved losslessly data/saved_outputs/B12_wide/event__fingerprint_B.u16.npz 21872
+Saved losslessly data/saved_outputs/B12_wide/event__parent_B.u16.npz 9103
+Saved losslessly data/saved_outputs/B12_wide/event__fingerprint_W.u16.npz 24119
+Saved losslessly data/saved_outputs/B12_wide/event__parent_W.u16.npz 11403
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(./report.aux) (/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./report.out) (./report.out)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omllmm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omslmsy.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd) [1{/usr/share/texlive/te
+xmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./test_table.tex)
+[4] (./coverage_table.tex) (./v11_table.tex) [5] [6 <../figures/fig1.pdf>]
+[7 <../figures/coverage.pdf>] (./b12_table.tex) [8] (./domain_table.tex)
+[9] [10] [11 <../figures/fig1_locator.pdf> <../figures/fig2ab.pdf>] [12 <../fig
+ures/fig2c.pdf> <../figures/fig3.pdf>] [13 <../figures/fig4.pdf> <../figures/fi
+g5a.pdf>] [14 <../figures/fig5bcde.pdf>] [15 <../figures/supp1.pdf>] [16 <../fi
+gures/supp2.pdf> <../figures/supp3.pdf>] [17 <../figures/candidate_diagnostics.
+pdf>] (./panel_ledger.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/V
+11 data/derived/V11; build/avulsion measure data/
+[23] [24]) [25]
+Underfull \hbox (badness 2269) in paragraph at lines 551--554
+[]\T1/lmr/m/n/10.95 (+20) U.S. Ge-o-log-i-cal Sur-vey. How do I use a scale fac
+-tor with Land-sat Level-2 sci-ence
+
+Underfull \hbox (badness 6141) in paragraph at lines 561--564
+[]\T1/lmr/m/n/10.95 (+20) Registry of Open Data on AWS. Ter-rain Tiles. [][]$\T
+1/lmtt/m/n/10.95 https : / / registry . opendata . aws /
+
+Underfull \hbox (badness 1521) in paragraph at lines 561--564
+\T1/lmtt/m/n/10.95 terrain -[] tiles/$[][]\T1/lmr/m/n/10.95 (+20) . Source at-t
+ri-bu-tion: [][]$\T1/lmtt/m/n/10.95 https : / / github . com / tilezen / joerd 
+/ blob / master /
+[26] (./report.aux)
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
+/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{
+/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texl
+ive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texlive/texmf-dist/
+fonts/type1/public/lm/lmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/lm/lmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmbx8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/lm/lmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/lm/lmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/lm/lmtt10.pfb>
+Output written on report.pdf (26 pages, 7639024 bytes).
+Transcript written on report.log.
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(./report.aux) (/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./report.out) (./report.out)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omllmm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omslmsy.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd) [1{/usr/share/texlive/te
+xmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./test_table.tex)
+[4] (./coverage_table.tex) (./v11_table.tex) [5] [6 <../figures/fig1.pdf>]
+[7 <../figures/coverage.pdf>] (./b12_table.tex) [8] (./domain_table.tex)
+[9] [10] [11 <../figures/fig1_locator.pdf> <../figures/fig2ab.pdf>] [12 <../fig
+ures/fig2c.pdf> <../figures/fig3.pdf>] [13 <../figures/fig4.pdf> <../figures/fi
+g5a.pdf>] [14 <../figures/fig5bcde.pdf>] [15 <../figures/supp1.pdf>] [16 <../fi
+gures/supp2.pdf> <../figures/supp3.pdf>] [17 <../figures/candidate_diagnostics.
+pdf>] (./panel_ledger.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion catalog config/sit
+es.csv data/results; .runtime/py311/bin/python
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/B
+12_wide data/derived/B12_wide; build/avulsion
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\T1/lmtt/m/n/10 measure data/derived/B12_wide config/annotations/B12_wide/polyg
+ons.csv data/derived/
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion statistics config/
+sites.csv config/channel_measurements.csv data/
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+[]\T1/lmr/m/it/10 (+20) Data: \T1/lmtt/m/n/10 build/avulsion analyze data/raw/V
+11 data/derived/V11; build/avulsion measure data/
+[23] [24]) [25]
+Underfull \hbox (badness 2269) in paragraph at lines 551--554
+[]\T1/lmr/m/n/10.95 (+20) U.S. Ge-o-log-i-cal Sur-vey. How do I use a scale fac
+-tor with Land-sat Level-2 sci-ence
+
+Underfull \hbox (badness 6141) in paragraph at lines 561--564
+[]\T1/lmr/m/n/10.95 (+20) Registry of Open Data on AWS. Ter-rain Tiles. [][]$\T
+1/lmtt/m/n/10.95 https : / / registry . opendata . aws /
+
+Underfull \hbox (badness 1521) in paragraph at lines 561--564
+\T1/lmtt/m/n/10.95 terrain -[] tiles/$[][]\T1/lmr/m/n/10.95 (+20) . Source at-t
+ri-bu-tion: [][]$\T1/lmtt/m/n/10.95 https : / / github . com / tilezen / joerd 
+/ blob / master /
+[26] (./report.aux) )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
+/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{
+/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texl
+ive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texlive/texmf-dist/
+fonts/type1/public/lm/lmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/lm/lmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmbx8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/lm/lmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/lm/lmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/lm/lmtt10.pfb>
+Output written on report.pdf (26 pages, 7639109 bytes).
+Transcript written on report.log.
+Hashed 788 project artifacts
+Rebuild completed: /data/data2/UW2UCSD_Whidbey_c2chien/rmontagh_valenza2020_independent/report/report.pdf

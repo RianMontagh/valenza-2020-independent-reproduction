@@ -1,0 +1,26 @@
+[
+  {
+    "id": "B12_wide",
+    "bbox": [
+      -65.95899999999999,
+      -15.979,
+      -65.40899999999999,
+      -15.429
+    ],
+    "epsg": 32720,
+    "resolution_m": 30,
+    "years": [
+      1995,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "purpose": "Extend northeast along the independently observed 2017 channel to locate the central avulsion reach; not an author mask.",
+    "geography_source": "Permitted B12 location and inspection of independent Landsat composites."
+  }
+]

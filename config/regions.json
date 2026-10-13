@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sarare_reconnaissance",
+    "bbox": [-72.05, 7.05, -71.15, 7.40],
+    "epsg": 32619,
+    "resolution_m": 90,
+    "years": [1990, 2000, 2010, 2017],
+    "purpose": "Locate avulsions independently along the named Sarare River; not an event mask or a quantitative reproduction.",
+    "geography_source": "OpenStreetMap named waterways; independent reconnaissance extent rounded to geographic coordinates."
+  },
+  {
+    "id": "moleto_reconnaissance",
+    "bbox": [-66.05, -16.50, -65.50, -15.60],
+    "epsg": 32720,
+    "resolution_m": 90,
+    "years": [1995, 2011, 2013, 2015, 2017],
+    "purpose": "Locate avulsions independently downstream of the gazetteer Moleto River; not an event mask or a quantitative reproduction.",
+    "geography_source": "OpenStreetMap Nominatim Rio Moleto query, ways 934139414 and 236429533."
+  }
+]

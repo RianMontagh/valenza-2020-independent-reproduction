@@ -1,0 +1,4642 @@
+{
+  "region": {
+    "id": "V15",
+    "bbox": [
+      -72.03850250221303,
+      7.14583,
+      -71.85705749778695,
+      7.32583
+    ],
+    "epsg": 32619,
+    "resolution_m": 30,
+    "years": [
+      1986,
+      1987,
+      1988,
+      1989,
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "purpose": "Independent raw-scene reconstruction around permitted site-location metadata; extent is provisional and will be audited against imagery.",
+    "geography_source": "Published coordinates only, expressly permitted by user."
+  },
+  "retrieved_utc": "2026-10-13T01:47:30.762147+00:00",
+  "max_scenes_per_year": null,
+  "catalog_scenes_selected": 572,
+  "successful_scenes": [
+    {
+      "date": "2013-06-16",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130616_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130616_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "37fdbd2a9e77eafddb9641d63c9492a8f15a2d4bd4de0aa854f0a0be4206ef27"
+    },
+    {
+      "date": "2013-08-03",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130803_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130803_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e0049fa233f8550a08cfd901e3789631ca4632d6df93ffe172cfd03979a645a6"
+    },
+    {
+      "date": "2013-03-29",
+      "sensor": 8,
+      "file": "LC08_L2SP_006055_20130329_02_T2.u16",
+      "scene_id": "LC08_L2SP_006055_20130329_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "901e33324e4d4e45ee5ace7b8b072b234630f407163df5e183a5fac780d4d6ef"
+    },
+    {
+      "date": "2013-04-29",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130429_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130429_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e5bc59070eeba4448f5b81caf56f5b14a4f705916731477da7e7dbc4b4aebb9"
+    },
+    {
+      "date": "2013-05-15",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130515_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130515_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "14e825d6331edb4a4654c5a62a263990d1471ed02106ef0e300905a958193324"
+    },
+    {
+      "date": "2013-05-31",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130531_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130531_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7700c2f978644ac14c4aa53726fa694365d10104bf1258978721f62dd9a77fab"
+    },
+    {
+      "date": "2013-10-06",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20131006_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20131006_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "dc04de02c882c521f279149ad1b58fe6c6f29d77ac14335f8425bd8e4763bb69"
+    },
+    {
+      "date": "2013-09-04",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130904_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130904_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "869dcd83785ce82ec3494c8a057ae583542ef4a07740407dc87fcd29de0ff277"
+    },
+    {
+      "date": "2013-08-19",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130819_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130819_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d898a9516221c66e87337c45a3f243ec46cf759c20e80e8b0f00e3c70bcd3fea"
+    },
+    {
+      "date": "2013-07-02",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130702_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130702_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "11312e10c8505984e34482888bf54bde91cb210357b2063381841c5cc3f931c9"
+    },
+    {
+      "date": "2013-07-18",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130718_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130718_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fb8466ab3f5dca4944b26a314b3d7b2d6aec60ee805912f48939fcdb6d6aa26d"
+    },
+    {
+      "date": "2013-04-13",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20130413_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20130413_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "eccc27c0d975859c1711d6cdd96120641fa22d514dab56e96a67afdb52189a78"
+    },
+    {
+      "date": "2013-11-07",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20131107_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20131107_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cb9b72790cf5e699ed97964468dcd405bb8e31b8a825e444ea62d3ce325c8aa4"
+    },
+    {
+      "date": "2014-01-26",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140126_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140126_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fb9cca9a1d1fb8b49d7f2d69d3707b22341fb606f0ccdc598d485ce32f61df38"
+    },
+    {
+      "date": "2013-12-09",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20131209_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20131209_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4c3a557b0c5f191e17df5797a25d3092733fe0bd3a75da59d1d7ca048c6c6b99"
+    },
+    {
+      "date": "2014-02-11",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140211_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140211_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6308990d5fdf25fba42f55de1b035f5da9598e7eafd8f3d20079f326585021de"
+    },
+    {
+      "date": "2013-12-25",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20131225_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20131225_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ed2a9e389e329820713d2d9988d395fdd0941de0a788d8fb542b785a70769a5e"
+    },
+    {
+      "date": "2013-11-23",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20131123_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20131123_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "677236e08534dba4c4cc5b235d19ad06fb70a738031296d8d42ad54739795be9"
+    },
+    {
+      "date": "2014-01-10",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140110_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140110_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "71deb3e4794257e96cd344bc9a9fed4daf80e759b2d2fa486aeaedb082b827ec"
+    },
+    {
+      "date": "2013-10-22",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20131022_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20131022_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "414454b8ec9ef840cf7bc11e487761111dc27ad7d5ce55936e96c297ac559c5f"
+    },
+    {
+      "date": "2014-03-31",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140331_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140331_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2ae51ad7506220a8b2122b1c7ff4c7cc68d77aa5f2993cf86c82e345adab5818"
+    },
+    {
+      "date": "2014-02-27",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140227_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140227_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3f02a1fceab7e9d7a7d1c49c0b4bec1e2297ee587eb197d81b3e5e7ba7a89172"
+    },
+    {
+      "date": "2014-06-03",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140603_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140603_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "42637c3a9332266792ee98e2bbeb56dec7a15789b5edaf2bcfda95c6a98ab751"
+    },
+    {
+      "date": "2014-06-19",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140619_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140619_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "42545bd899493f7b453e78a4ddc7a2bf90a7593e751069c3db0f5850b99602e3"
+    },
+    {
+      "date": "2014-05-02",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140502_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140502_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5aeb5706906ca43f8635d9c6969ab006f25b0bcaf891c00f461581ada22718a1"
+    },
+    {
+      "date": "2014-04-16",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140416_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140416_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "14340a9030d3ccfc5293ffca75edec44d92588c20fe0fb401acbdd808f4d15ac"
+    },
+    {
+      "date": "2014-03-15",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140315_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140315_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3d90266a7315b8cecbf27d65852ea89242918b66a030119e6c115a6be176efd1"
+    },
+    {
+      "date": "2014-09-07",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140907_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140907_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "47200e180b9e34bd8ee19b764d51ada95b4f086c0c80e0b5260ae67ce6887537"
+    },
+    {
+      "date": "2014-08-22",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140822_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140822_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4a3d6ff43265c5e26a7998595397f7b086a188b76ca7a6a638e9aacef2da4b85"
+    },
+    {
+      "date": "2014-07-05",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140705_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140705_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6a6da09c67c371a016c6d35ba2bee189516f46dfad179be482fdbfa8a4140a01"
+    },
+    {
+      "date": "2014-07-21",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140721_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140721_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2cbf5dd42684afa1694d7abfc0c3ea7a61f395513d6e3c663f42b97819e76b54"
+    },
+    {
+      "date": "2014-05-18",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140518_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140518_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "592b61954a4a816cc152e0ce347a3cea273550c19fe2a83dfea38b123f2f9226"
+    },
+    {
+      "date": "2014-10-25",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20141025_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20141025_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "05992c0b90ab8a92099e42c8f16c84439b301644a39e83367dde79d676a58031"
+    },
+    {
+      "date": "2014-11-10",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20141110_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20141110_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c9a289c6bfc1341d5174e886c7903a71664c49406f5e8161658e098576583d99"
+    },
+    {
+      "date": "2014-08-06",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140806_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140806_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "71aa37cc76ffd21f91b73e8ef6cd907cc3487a9a07092f18e3f8eb54c81a3b63"
+    },
+    {
+      "date": "2014-10-09",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20141009_02_T2.u16",
+      "scene_id": "LC08_L2SP_007055_20141009_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e9b0e6b937228f8bf0e243b5cb30c387a5cf90d3e3ea060ba46c303da68eeeaf"
+    },
+    {
+      "date": "2015-01-13",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150113_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150113_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "321ec65f1d3dac542019468433571eae807cd74d955a30aa77ee33a1291853e8"
+    },
+    {
+      "date": "2014-11-26",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20141126_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20141126_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "92ad96bc765b53a05d1edfacc07f9844bcc000dad968bac85225c733864a1d9d"
+    },
+    {
+      "date": "2014-12-28",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20141228_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20141228_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f6b9947367d0f5ed80fd7c42342426bc3998755a7157b61dc9034f7cb7502582"
+    },
+    {
+      "date": "2014-09-23",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20140923_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20140923_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d2bcdaf66f503f0f989d7a8d17673ac47468e55e9842c7126ecf6094da118b4f"
+    },
+    {
+      "date": "2015-03-18",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150318_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150318_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6622355971e3e245f5e8a3d288818ff74ff53dfe4d4f403319c3c92bdbaea6cc"
+    },
+    {
+      "date": "2015-02-14",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150214_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150214_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4a8ac9b9543d1be07fec33b9a8231680f14771726015376e6448f0744b06e368"
+    },
+    {
+      "date": "2015-04-03",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150403_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150403_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ebcb0d3198aa02175e0d9a0ad0e5393eedcc7ef9cd816b6625318a3a645d5598"
+    },
+    {
+      "date": "2014-12-12",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20141212_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20141212_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8c29e3a322f8011c73cd25450d9b3dc8b9b30660e752f373b2f3985847738fab"
+    },
+    {
+      "date": "2015-01-29",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150129_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150129_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d35131802f5406ebda18e5b34f3a657f5a73fcc61f19bf95b0427aeb38f9a491"
+    },
+    {
+      "date": "2015-05-05",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150505_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150505_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "dbd96d6b80a667b087e7b7d2352038798f5bb948bc80f428da138816c83980a6"
+    },
+    {
+      "date": "2015-06-06",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150606_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150606_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e98ed1cd168a9cf536b129f713220d523855f7a6e5c2b04576a416b2d0cfa8ce"
+    },
+    {
+      "date": "2015-06-22",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150622_02_T2.u16",
+      "scene_id": "LC08_L2SP_007055_20150622_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bc1a9efb4cc9c04313b4c3341ae986853b20d8b4c3204ac71255ec9034f1e4a1"
+    },
+    {
+      "date": "2015-07-08",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150708_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150708_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "795ab48f7952fb11233005883452aabee8b98258018f9aacab856120236846bb"
+    },
+    {
+      "date": "2015-04-19",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150419_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150419_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8ac310ab2bce85f47bc03f7c6332aea3115dc68df150d9d0b9ed7bb8e968c346"
+    },
+    {
+      "date": "2015-07-24",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150724_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150724_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "342a58b11a669531dba92d6c0155d3de8ef95ec18e2ead0b1a03b27c8eb1094c"
+    },
+    {
+      "date": "2015-05-21",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150521_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150521_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "510c25b9fb87c154b6e11c2894e4f912949d8674e2b54b3d630adbf5d4418faa"
+    },
+    {
+      "date": "2015-08-09",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150809_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150809_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b9bc22674b18331d27c0c3456075efee27b1a21e8f6f6210f0652de46db80c0f"
+    },
+    {
+      "date": "2015-09-10",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150910_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150910_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d1b6d74868f25e2064c42ffbae1581189b863f7988848c3b5ceab9a0fb199147"
+    },
+    {
+      "date": "2015-08-25",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150825_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150825_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e8410e1fa81601deb878edc73003667729445aa8e2f7b6a78e92c225bf278197"
+    },
+    {
+      "date": "2015-10-12",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20151012_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20151012_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ae802362547f55a687ae440f0f67d82d4b7072b2eb4d651d5ba60c6399e8ffd3"
+    },
+    {
+      "date": "2015-11-13",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20151113_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20151113_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b3a929179b0d50e26afff981a8f2264432205feec98f95a388bfaadd24082c35"
+    },
+    {
+      "date": "2015-12-15",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20151215_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20151215_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ca31c133b880e9b06e7e644929044c33e02e7c17bc1252c4a754b0661ab0046b"
+    },
+    {
+      "date": "2015-12-31",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20151231_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20151231_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d218152f80bb3c55c8732044213a299aa264287847d353db2dd89d4755fe9f2e"
+    },
+    {
+      "date": "2015-09-26",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20150926_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20150926_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d31bb72c838d71b213e8e87348878562cd7639336b4a0eaed28c3efaff518a14"
+    },
+    {
+      "date": "2015-11-29",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20151129_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20151129_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "58b81c2a40695f7393566153932f935ef378d9686917c0720a22512e8a16cb85"
+    },
+    {
+      "date": "2016-01-16",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160116_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160116_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a91344fd83054062568cefb81adcf1ab936bbc105fbf7719d02de864daefa6c7"
+    },
+    {
+      "date": "2016-03-04",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160304_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160304_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a80e0509bfd812c96459cf11ddf840dcfac5698e4b8a84c2b921c0b696be1993"
+    },
+    {
+      "date": "2016-03-20",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160320_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160320_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1985d98cb22cbb737bd3da9ba43d08670935b7af67268db8958e17d19b53c54b"
+    },
+    {
+      "date": "2016-04-05",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160405_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160405_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "db11dd074829cf700b07b63d293b13654e5d3430dd6cec40250d68139b5414d7"
+    },
+    {
+      "date": "2015-10-28",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20151028_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20151028_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "45e234cfcb30f87d593d460cc6bf0632b59c950b6ee180b1d58c11f516637b1c"
+    },
+    {
+      "date": "2016-04-21",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160421_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160421_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "14d0d8bacd0dcefb32345bc5ab8147702dae60b61b0045d5d9a3a10077c04e48"
+    },
+    {
+      "date": "2016-02-17",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160217_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160217_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6e9a212ba5f85fe783d8fb9748bfd3d910bdae23ed0e671d07a813735a6b6ba7"
+    },
+    {
+      "date": "2016-05-23",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160523_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160523_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d5a3e49fedd1afb325cb06a05662f5e423972d027563befad9bdab1b0a954943"
+    },
+    {
+      "date": "2016-02-01",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160201_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160201_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6448c45be72604c244c240d4a091de1a4dbed65cab9a6783d80a427633466063"
+    },
+    {
+      "date": "2016-05-07",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160507_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160507_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3896e4a1065b043d37796e8fc7a88dd43e2a34ed2bb9fcad59116539b64ddcca"
+    },
+    {
+      "date": "2016-06-08",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160608_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160608_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "28080015053444ed401212143aa2819088ca36a1f7b0ab97b7e822cc8e8fec8b"
+    },
+    {
+      "date": "2016-06-24",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160624_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160624_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8c3ef1ed11045506428c5e5c7968b4246d3356ded5e403a7a79d81c5b0e5ab37"
+    },
+    {
+      "date": "2016-07-10",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160710_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160710_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ee2d8eb8feba03b44df3a38782785e76a66aff397388d7241190a317c60e0ebe"
+    },
+    {
+      "date": "2016-07-26",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160726_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160726_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a2a9885318d736a41bb568bc9026c9463306327dbe42ee76cf2a394699591a0a"
+    },
+    {
+      "date": "2016-08-27",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160827_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160827_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9de1e1108433248cee1b3eeba9e7769a90b8ec52d8866281270e902c9b218865"
+    },
+    {
+      "date": "2016-09-28",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160928_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160928_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3e59beccee9273503f524ab943bdceb45adf2f977315a55c94c8719afc537d93"
+    },
+    {
+      "date": "2016-10-30",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20161030_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20161030_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bdcd26ac6729d48a9d8e2762458ee4c288561ac5c2f59ee3eb28d77a2b589c09"
+    },
+    {
+      "date": "2016-10-14",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20161014_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20161014_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8764a8984218468a8125d33bbc2458a08bf8368b92323db9cbf936c2934ae961"
+    },
+    {
+      "date": "2016-12-01",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20161201_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20161201_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "679bf11574b8ebda4efc1017cfc46f7914ab16b84f6f3afcf14e3a30436331d0"
+    },
+    {
+      "date": "2016-08-11",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160811_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160811_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5958a1a8ac06ba4e8147e61d461d7a731440ee9015bd6f5296e543f56f2ea900"
+    },
+    {
+      "date": "2017-01-02",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170102_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170102_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "26c55eef2cd008db27a02ee5fe6c8ccfceac585117e40a7082011560573d782b"
+    },
+    {
+      "date": "2016-12-17",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20161217_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20161217_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8bf24540edde197a5b13c367ba055ba86b4aff216afaf8aaa6bb00973aacac2b"
+    },
+    {
+      "date": "2017-01-18",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170118_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170118_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5c166ba525cf7a93dac9456df5283198cce9e3aac2cbcaf743d99963d749fc86"
+    },
+    {
+      "date": "2016-09-12",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20160912_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20160912_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "229041885e934eec4f4d22a8f0038dc13aa29695bbb7e7fdb275d60480444b49"
+    },
+    {
+      "date": "2017-02-03",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170203_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170203_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3b36a59ccb0f9dde8bb2940409c652145937b7abce2210e2af116367a00c497c"
+    },
+    {
+      "date": "2017-02-19",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170219_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170219_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e887fb7a9e8fa56b3ffaf5e0bf73e854b0b6705a76ab8976549e93ade851269b"
+    },
+    {
+      "date": "2017-03-07",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170307_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170307_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "21691c62bc1d6a840ad8496307dfe664e7e91aa734edc3a18dd7bf99ecffe42b"
+    },
+    {
+      "date": "2017-05-10",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170510_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170510_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7ee6d76742a19a63583d277fdcea7572b63ca3497b63528f5121ac4780c063a2"
+    },
+    {
+      "date": "2017-04-08",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170408_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170408_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6a6c17f58b192732f1a91210d6a1b62c4249f703a10d5d96832e3a2537f5236b"
+    },
+    {
+      "date": "2017-04-24",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170424_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170424_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d27827c1dfc8943740936f19c2f34827c8a2fdaddcb7347eef9263d480c38da5"
+    },
+    {
+      "date": "2017-05-26",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170526_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170526_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7c32d03c17a85261420e124a3ba0806fe69964c2003daf2e99d5e917e484d7d7"
+    },
+    {
+      "date": "2017-06-11",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170611_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170611_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9cd8d9df70a5278aeaa72ba026643bc83f71123dfbc256d6cf1822cbf48adf5a"
+    },
+    {
+      "date": "2017-03-23",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170323_02_T2.u16",
+      "scene_id": "LC08_L2SP_007055_20170323_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2f932d3c477a2264632304c4e6bd33a68e79db70caca4c754a0852b0d662eeb2"
+    },
+    {
+      "date": "2017-07-13",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170713_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170713_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "321e3a77ce6377d4b57c0d99e7e5ec895c52decab2262a1a470e50777fb8e44c"
+    },
+    {
+      "date": "2016-11-15",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20161115_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20161115_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4577e761fe3b97ca93eeb14b31f356df505df79dd6d7d2427bc8da17bf11f327"
+    },
+    {
+      "date": "2017-07-29",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170729_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170729_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f23a5410be5319cab662a63b7737debec9aad1399869ce54d750a643ac204f09"
+    },
+    {
+      "date": "2017-08-30",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170830_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170830_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "be6bb0327c064e47b357f9cef501397fe3600a23547161181c46b7eeff8b8018"
+    },
+    {
+      "date": "2017-06-27",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170627_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170627_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "277959001a887eea14023f224d0c56ad0f0cc8fc1997b3a35635bc0ee2dfdcac"
+    },
+    {
+      "date": "2017-10-17",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20171017_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20171017_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e9330de5a238a842a7a270c7709ee80b66f399292dd5f86de0dc09e19ee15cbc"
+    },
+    {
+      "date": "2017-10-01",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20171001_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20171001_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "59363282374374e568c6c9253ed3d29b40bbca04f77174e1ce6b3b40f7fe3cc1"
+    },
+    {
+      "date": "2017-08-14",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170814_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170814_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c514c38866b222eee65109c2fef5b0670b03c17b3f5cefe219f5f79d3802adb9"
+    },
+    {
+      "date": "2017-12-04",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20171204_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20171204_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "77f1514d75701868662d5009a14771eb9ffc823352ddfb66ae8a5f42b027dda1"
+    },
+    {
+      "date": "2017-11-18",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20171118_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20171118_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7282b1052c4a01526226ebfee0dab2d6507258033aae1424031ccaa7e6a6cb14"
+    },
+    {
+      "date": "2017-09-15",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20170915_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20170915_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "dd45853adf6af99a294ba2789f286e4173fdf8311ebfe7effbf4724323ff2ea4"
+    },
+    {
+      "date": "2017-12-20",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20171220_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20171220_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e23247d083baf6b0af4cd21f468dbbddf20f8d7f3dcefcbd86a85db5e7721340"
+    },
+    {
+      "date": "2017-11-02",
+      "sensor": 8,
+      "file": "LC08_L2SP_007055_20171102_02_T1.u16",
+      "scene_id": "LC08_L2SP_007055_20171102_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f7affd41542e3da402e3b75f42b3e991fb85f5cdc86f71c4db3b1d3e936c8948"
+    },
+    {
+      "date": "1999-10-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_19991024_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_19991024_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4fe0d1d5e1bc93b143c1285cfea2857a00fefe8144bfe02bc4eeab3592711e94"
+    },
+    {
+      "date": "1999-12-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_19991227_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_19991227_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b24635a96f5bff5c391a8324f1d236c0d7172e58adc5bc7b0d4d0d5ff1a92885"
+    },
+    {
+      "date": "2000-02-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000213_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000213_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "db4145db2b06d97efd4a0c5c59e320be0d47ed0f6961e927b24735fb41f61884"
+    },
+    {
+      "date": "1999-09-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_19990906_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_19990906_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "93965fab6766672f2f5ff07e1e94d97c754247fe86b2b865bde4cd1aa1d49348"
+    },
+    {
+      "date": "2000-03-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000316_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000316_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "772c3bc9df963b95c051a5367a7d7c01f1ff9c45632e7c716644e3257646b55f"
+    },
+    {
+      "date": "2000-06-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000604_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000604_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0cd8ed9a195ba8447e2c52b3da832ec70b9ecea44ed6e1a33e72ade6e0faf4ae"
+    },
+    {
+      "date": "2000-07-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000722_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000722_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0c631913ceac2aeda6ce59ce2941a45df5748c5944400d97bc4976baac4abe39"
+    },
+    {
+      "date": "2000-08-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000807_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000807_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7389085b07d319556fcf4d6b1641ef680771b5c17e97939666e232e5d6b52abf"
+    },
+    {
+      "date": "2000-05-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000503_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000503_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5f92fda85b9d943bba44b7296e3be8c6bc8477c7d6912391248233d3b92db577"
+    },
+    {
+      "date": "2000-05-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000519_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000519_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2a9942adf89010ae209a333c6830f81edbf864b3d1d1bff6f99844dcce0751b3"
+    },
+    {
+      "date": "2000-09-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000908_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000908_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ccf651943e47519ecf06a8270c82720f4b52dc9e98268e60e4805679def96ef1"
+    },
+    {
+      "date": "2000-09-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000924_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000924_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3fbac97a3be62987986753322269dcfee8dee265835435e46828aa613908b177"
+    },
+    {
+      "date": "2000-08-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20000823_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20000823_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7201c77ae20fbf8ed8e2212aa076fba557649d8a836482d4573d097314e243cc"
+    },
+    {
+      "date": "2000-11-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20001127_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20001127_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b7493e8fce9a72bfc6bcdd8f475773db7ed65141d9002e24a2c27dc0b0603c35"
+    },
+    {
+      "date": "2000-10-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20001010_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20001010_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c36f961df8d51bfc4eb08602b52a67619c535110f500db0f61da569f7c3a32f9"
+    },
+    {
+      "date": "2000-10-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20001026_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20001026_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1125fa7aa7b3d56ffd30ada4cb4f31394d49aab579f218900ec13fc39d8c8b25"
+    },
+    {
+      "date": "2000-12-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20001213_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20001213_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "55c40dd14978e3c3ccdc6acb99a4a5e270864947b06437207b5c03d7d3442d25"
+    },
+    {
+      "date": "2001-01-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010114_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010114_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "77acd2be9e3d363eb09a0aecab08f69fb63986b8dd296b964db3f6b44b1af400"
+    },
+    {
+      "date": "2001-03-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010303_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010303_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e2a5bd79367567b9aaf063f27ecfdbebcb4b0cfcda923dafed6adb75d4621da1"
+    },
+    {
+      "date": "2000-11-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20001111_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20001111_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7e95848e067b7748769ca609b597fe172a08a497a4272fb1800c7c94a709d84f"
+    },
+    {
+      "date": "2001-04-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010404_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010404_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ddba14ca955994aebb81d1b3775e512ee27f3589455f25941487e8a0be038f05"
+    },
+    {
+      "date": "2001-01-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010130_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010130_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "139d010b9b85736ff7857aa5a5b0a6b8b38b1c1916398df1a0c5a20f390efb15"
+    },
+    {
+      "date": "2001-04-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010420_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010420_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4f76d66dfc42c2d41b9c28e950c2c2d755be2d0889652dd1e8fe9271f05371e3"
+    },
+    {
+      "date": "2001-05-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010506_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010506_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9992ff358bf0ca13cd5c493a3df575c70fbe6f9dbcb2c735da9a2a13d722149e"
+    },
+    {
+      "date": "2001-06-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010607_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010607_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a2d5e03698b07884f76c8b953272f2462a9133f1c0bf68007761f06ce8a03745"
+    },
+    {
+      "date": "2001-05-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010522_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010522_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "80db69a3f8ab2ef35365bc2c4ea03520b3c624aa7734500f2eaa2e265b5799e6"
+    },
+    {
+      "date": "2001-06-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010623_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010623_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9914752a20d38f3c547ded5c2345ad315ec3c1bd7d47cdbe1a716b45e5ef47ff"
+    },
+    {
+      "date": "2001-07-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010725_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010725_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "67785ad76d9e9f5f03ecb1e2e371e9538d839714d21d4c67a524175813db2878"
+    },
+    {
+      "date": "2001-08-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010826_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010826_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8b8d122372de8637ed5281d29d3c68aaab007344c84392146a0193a30e125021"
+    },
+    {
+      "date": "2001-09-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010911_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010911_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "de69553595dfe4dcaa87bc4835888974bcacd6cf09e4d914781a658fa3a01633"
+    },
+    {
+      "date": "2001-09-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20010927_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20010927_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "46b31d150e37fb1e27c090d46accb039abe9198f4b1d637bc913743abfbd6ca6"
+    },
+    {
+      "date": "2001-10-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20011029_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20011029_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a81f7012d09a7d0dec7b6941114823f599c0dcc78bf7320289c94e3855e8ec03"
+    },
+    {
+      "date": "2001-11-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20011114_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20011114_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6cf37b011c046af0ceae8ae9cc67642ae02919d30e1c62f77481eaa414ad0123"
+    },
+    {
+      "date": "2001-12-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20011216_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20011216_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "51aa026d598bfac9a7b209c1fc8117d4d66c97a16a578ef676fbd2e526120972"
+    },
+    {
+      "date": "2001-11-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20011130_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20011130_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c97f0eabcc28740dd85a397c90945d5dbc8a5af65cc6fd65ec665a2014570b50"
+    },
+    {
+      "date": "2002-02-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020202_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020202_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "884f456c829e7fcc6c979c301c87d4c5881f3989be5fbd0bf155c02a70b23686"
+    },
+    {
+      "date": "2001-10-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20011013_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20011013_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2347af440c7d41ae0ce7c66a19122c2cc2c256339326f8c6f5ba8564a20dc1e3"
+    },
+    {
+      "date": "2002-01-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020117_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020117_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6c575935dbb3826a40daf3d4b144bbceb0468298a753e635fe7f923ce4d0bb6c"
+    },
+    {
+      "date": "2002-03-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020306_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020306_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6b4b3b965b56b18192dbf6286a32d875878efbebda71043c0e5b7af07467e4d6"
+    },
+    {
+      "date": "2002-04-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020407_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20020407_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "010627a930f6e92b3b20368ee2231df4703aff170299101acd45e226720c1a73"
+    },
+    {
+      "date": "2002-02-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020218_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020218_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "93634da2c4c4905c8985a1fb621dd0495d27b37ecef40d6e0478aeeec2d1e2d7"
+    },
+    {
+      "date": "2002-05-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020525_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020525_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "89c2761c112cd389cfd37556206e40be2d093cdb563b05122db232fbe55fcd20"
+    },
+    {
+      "date": "2002-06-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020626_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020626_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "993665c3d0246ab6545dd3c52a31dec57d211ee386eebf82f7eea632ca27df78"
+    },
+    {
+      "date": "2002-07-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020712_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020712_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e108d7bd8ccac726a17bebaf7d6f299e9986fd6173ddd79f313b21ffd8680ee"
+    },
+    {
+      "date": "2002-05-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020509_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020509_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "08f5b740341506e255e40fc91010ebebcc3e666d120d2fb5609b861789a63d56"
+    },
+    {
+      "date": "2002-07-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020728_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020728_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "817f20b9a15923103a65c296c6a6c39adb8e12cb75b692a800fa31e3643aec4b"
+    },
+    {
+      "date": "2002-08-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020813_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020813_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8609356f4650dd6b92cfc75f4965718697b2f092e5e7562f5c96c1d7d2cb3538"
+    },
+    {
+      "date": "2002-09-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020914_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020914_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b214606a976c0608519bf563962ad6cdeeba9a0fd35299a26533dc2db0f2c4a1"
+    },
+    {
+      "date": "2002-10-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20021016_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20021016_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fb1b46e43a5fd34c618e1bf328c44cbaba52223b23f358c11ce2bd3d22ee2176"
+    },
+    {
+      "date": "2002-11-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20021117_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20021117_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "237ffa43f85834e3acb5e876aea79e5a2c742e3eb02535e70d127a88e737147a"
+    },
+    {
+      "date": "2002-09-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20020930_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20020930_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "52e61d888a896cc4b5489e8c0d2075386827091cf77842c83dd0799c096061eb"
+    },
+    {
+      "date": "2002-12-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20021203_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20021203_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7bef97010909e180aba1c89d78c7fe2643000552bdddf39fbbf23d46ab355189"
+    },
+    {
+      "date": "2002-11-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20021101_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20021101_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0c3b479e2f02b4b12324ef505657bc354e409de93a7e3e7f92f508732085fb68"
+    },
+    {
+      "date": "2002-12-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20021219_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20021219_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "de0b74aeb522dc0c0741be89b74c9fc04c691fc4bcfa55576320180201afe2e4"
+    },
+    {
+      "date": "2003-01-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030104_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030104_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8fb4be12053c18d1bd62354b6c1ca1e8860c59087a8b2e2847de92ed2109567e"
+    },
+    {
+      "date": "2003-02-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030205_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030205_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "06852f0f413db479ea55ceee06a9f8c7a533b3a587bf843f620cce06898b1e3f"
+    },
+    {
+      "date": "2003-03-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030309_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030309_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3973c28bbc007508e1e6d8d15cec64148519738a2110494574269995c84810b6"
+    },
+    {
+      "date": "2003-02-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030221_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030221_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ac5f3ca85533c4483953025599075502a0ab3a7d05eb8f89c435cdf71b0f1c6a"
+    },
+    {
+      "date": "2003-07-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030715_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030715_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "07be2f756d12450d510b14967e2023168a5be6b8ed55c78f2169f6749635d786"
+    },
+    {
+      "date": "2003-03-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030325_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030325_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f0e98227f2daa2c1c5f7370cdcda25198eaec8874834f0fa91fa804c32c701b3"
+    },
+    {
+      "date": "2003-05-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030528_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030528_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c48e979571582ea4f6981c67541702c0e551422dd279a74d90a39b3be50ce400"
+    },
+    {
+      "date": "2003-08-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030816_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030816_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e35295440b159bdd8af67ad16018cd7e6fac88f72ffc1f61495ca236f3cb741"
+    },
+    {
+      "date": "2003-07-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030731_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030731_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "38ed09135cd8244d7b8586be8a80d9ed88a9c9320707ed6e0df41255b2553b5f"
+    },
+    {
+      "date": "2003-09-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030917_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030917_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cce4e11b74392ef253e2a428dfc9756be4328a7649f05ecd05febb35251b094b"
+    },
+    {
+      "date": "2003-11-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20031120_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20031120_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "68d25dabbf8dd37f33948d375795461f55e783f935ee9d8620af649a40a36ab8"
+    },
+    {
+      "date": "2004-01-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040107_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040107_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9c02c57527dd3d0373598935c85deb521aee5ae0e1f7417bd2733ca59a155d28"
+    },
+    {
+      "date": "2003-12-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20031222_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20031222_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "36837bb6c3a8125abea475e62126af0261b03b86e9a6f24f4be26bdbca896fdd"
+    },
+    {
+      "date": "2003-09-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20030901_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20030901_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ffac2740d325302be1fda5dfd10453b652f695e8ea31eb7aeb597af79bbeaada"
+    },
+    {
+      "date": "2004-01-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040123_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040123_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2763e9740bc9cd5723057e266cf1e772e23c6ac40eced25b83f9c0cfcaa4dbc1"
+    },
+    {
+      "date": "2004-02-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040208_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040208_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c3dc1f9d6b1cf8e6c3d38ba2aa0b6575b9c825016a0df17a56b4313aa4f58059"
+    },
+    {
+      "date": "2004-02-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040224_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040224_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "22c1b6df3f3e99d27a1c81fd4aacfdd9ae8ac4b7674509cfc0ba678b8216b887"
+    },
+    {
+      "date": "2004-05-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040530_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040530_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f03d32c43c0d532f3b3162693dff5a4424daa56715de5c97a4c84a9a333db5db"
+    },
+    {
+      "date": "2004-08-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040802_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040802_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "792cc680891e476a4f701079675645708af78d90f11c668fd4e3cd156f25bb39"
+    },
+    {
+      "date": "2004-09-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040903_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040903_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ab7dd9697b2c4636b30d4163109a7386a608fc4e514ba18205649299cb94df26"
+    },
+    {
+      "date": "2004-08-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040818_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040818_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f47677b7445fda7d61eefb523dec0c04e4a381fc4fc3e8b11f25c8a5ec21cf2f"
+    },
+    {
+      "date": "2004-10-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20041021_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20041021_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d03ce682925356175eaaba3da35db7239dc78bcf23104e70aeaf04764f0d8c39"
+    },
+    {
+      "date": "2004-11-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20041122_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20041122_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "252c66f9c2cbc02fbe05d671b8a29c875fc11d0ebbf20bd4a35d6090e474c704"
+    },
+    {
+      "date": "2004-12-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20041208_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20041208_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e5144bab6765101ca7e312916417a5ca1f8b6be1dc01fd5e661a45b3c599910"
+    },
+    {
+      "date": "2004-09-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20040919_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20040919_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e0c2399e5bf892d34aa1909e59e37b7404999f990e504acd3cb60136a0d6a1cb"
+    },
+    {
+      "date": "2004-11-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20041106_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20041106_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "67013e3d2924f79f29c33c8866952d78ef633e7f986c6ecae7d352802b37cbd8"
+    },
+    {
+      "date": "2004-12-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20041224_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20041224_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b21caac7c5c4ec3941ed2b168377824652075dabd770c5e44c37f9d0770fe511"
+    },
+    {
+      "date": "2005-03-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050330_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050330_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4d843ef0df25401c2c4b3f669117bcdcda9b71f795600397b2478dee549144d5"
+    },
+    {
+      "date": "2005-03-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050314_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050314_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "31c5463259ec0e978f51e2dfcfdc2771591104dbe7c8fc37b881869ae9bf98db"
+    },
+    {
+      "date": "2005-05-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050501_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050501_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f6170d5136d6a4108b144b65ac604adfd0f333e7c7d2df3a7489fed6778490af"
+    },
+    {
+      "date": "2005-06-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050618_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050618_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "12262f33e1c16fb56dfaf916dad5667afc7152dd3681a8a00aa8e7be80094ee8"
+    },
+    {
+      "date": "2005-07-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050704_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050704_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "67d524f1d18aa6a6ea5df3ab53b1d70be4038b2bc5862299d95cddfbb504aa1f"
+    },
+    {
+      "date": "2005-07-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050720_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050720_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d474251ac874a4dd27c48edbf73ed7e3e8e3f130ea6260cca6008c2368933671"
+    },
+    {
+      "date": "2005-08-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050805_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050805_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1b26a3f6e4fa8f8321efc8a939b74f8c15ad1ee1abd571bbbd09effb20c5cac3"
+    },
+    {
+      "date": "2005-06-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050602_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050602_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d28eeb2668c9163bedcbe76eb65c59ca9c68bfcfd7ab0289d5937bc504ef6f91"
+    },
+    {
+      "date": "2005-09-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050906_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050906_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ac3825671a13c0af0219962a56ee82ea3412a42468bfd91375bc4a1231b66886"
+    },
+    {
+      "date": "2005-09-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050922_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050922_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a172ca7bda396e5e20da8fea769d01eb510c51e7301c9a50c1212b5dcc0187f5"
+    },
+    {
+      "date": "2005-10-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20051008_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20051008_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "82f0d5ab15e2d4dd8dd2ee5712de4de7a6db14bc2b727d2497c103caffc506e4"
+    },
+    {
+      "date": "2005-11-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20051109_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20051109_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4dfc7558c5d2ada0d41128474243b0711b396abcb485a2f13ad70ebe1ad18663"
+    },
+    {
+      "date": "2005-08-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20050821_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20050821_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c5cf5af2409c692addebfae5ad22566689dda3071ee87771406d2c85651d0326"
+    },
+    {
+      "date": "2005-11-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20051125_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20051125_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "61a8dd985422fac0b69a5797d72f374440928ed4f9ccd56e17c22a5ead895533"
+    },
+    {
+      "date": "2005-12-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20051211_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20051211_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4b505535ca043343d14eac872591f44bd64b30718dcad8ec0d39f1b93ce3018f"
+    },
+    {
+      "date": "2006-01-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060112_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060112_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8f32785d083256957cfb9a936922c3f076026cf2fd92f3a55d42eb00d054d1ab"
+    },
+    {
+      "date": "2006-02-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060213_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060213_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4fbc8d04404d389d993655e27f3bc0e51332da3bd929c58bac492c6f112b3180"
+    },
+    {
+      "date": "2006-03-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060301_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060301_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "582bc8fcc38f3fc45ab671589f490f59295587074a18e06b95946ab78c237f7f"
+    },
+    {
+      "date": "2006-03-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060317_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060317_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5c11109fa48e74c498757fa4904ec13cf4f9f1e98eca7825f92421c2181f51a8"
+    },
+    {
+      "date": "2005-12-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20051227_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20051227_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7d1bda89b168f3a46c97c1aa61779be5021830dd99c6fea892cf7dd8a31e6ed5"
+    },
+    {
+      "date": "2006-05-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060504_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060504_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "86563c35c53cf3167786108dc56260a5ba758cbd2bc7cb0f02830e5d92086a33"
+    },
+    {
+      "date": "2006-05-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060520_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060520_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4dff9f4eaac2cdf2ac1841e35e4806f835538c926ba248ae4eada60f26517b52"
+    },
+    {
+      "date": "2006-06-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060621_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20060621_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c232b407d72e7dfe23c5706b17c72694b8f433ededc83cb68560523581064fab"
+    },
+    {
+      "date": "2006-07-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060707_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20060707_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "89a88b88cc91c4f976b57899bb5d54d1cc31fa35ce10c35cc08449aa48b3858c"
+    },
+    {
+      "date": "2006-04-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060402_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060402_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0e1c30cb53b9c4606f2b32f1f3b228026312a75bc68c930e590067cedfe5c657"
+    },
+    {
+      "date": "2006-07-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060723_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20060723_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e8f854e76f269cf5d6554d9fe0cba882df6cceaa1ade8341ee0a4b56584c90e8"
+    },
+    {
+      "date": "2006-04-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060418_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060418_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "051aa314a8fea34a555eca1dbd89209164060e42ee1d8b89d131f1a31b010d39"
+    },
+    {
+      "date": "2006-08-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060808_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060808_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c73f3912716b9d9ca5571bdfddeefee0a4707b5dac79e57ddea53eac131a3e28"
+    },
+    {
+      "date": "2006-10-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20061011_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20061011_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6403023a5be7ff5d03efde22b0bcb454a941ea7c07d877ed76bcf9a67967173d"
+    },
+    {
+      "date": "2006-09-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060909_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060909_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "155c5ad7c31bb2c814303b8e92749faacff28ef7639ab4bd864a8d80b7e0cf89"
+    },
+    {
+      "date": "2006-09-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20060925_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20060925_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "660c1fd9afab16c3337bd6a5617c646a21c2505d2bbd432149addda2a458e69f"
+    },
+    {
+      "date": "2006-10-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20061027_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20061027_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6bf508f3b4f122eb795a43f6cd55e65b6737cca30048f6a6619ba35efe36878c"
+    },
+    {
+      "date": "2006-11-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20061112_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20061112_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1791de22c2acdcaa8d9a94b99e1b2c8cc502f4739b507c533da22e29abe367c8"
+    },
+    {
+      "date": "2006-11-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20061128_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20061128_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9d82bcf8249e382b3f9d9eb8bdd4dc0ce3101ed100db90822d66e1ed94f56ece"
+    },
+    {
+      "date": "2006-12-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20061214_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20061214_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "242f5074eab1ab34ba5560242fe4fd77669ab5c53a85e8c96266dc73b4656b9e"
+    },
+    {
+      "date": "2006-12-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20061230_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20061230_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "96102bce2ddaafa41eab98c9a8c80684fc88314b8f22197ba2c4576ea6648d1d"
+    },
+    {
+      "date": "2007-01-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070131_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070131_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4f46c7db3b2ad536a9fdc34e1ec14f69dcfd62b2f788cf16ce46a4830a90fc47"
+    },
+    {
+      "date": "2007-02-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070216_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070216_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3bfa9ad013c2e58ded52c36cacf31e702a151f4c7485c15bd435387331a34618"
+    },
+    {
+      "date": "2007-01-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070115_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070115_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8e148fc42f0a35655bfdce4565c4e2fd4b6da66d1b9355759a3eccb496cbd1d3"
+    },
+    {
+      "date": "2007-03-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070304_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070304_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f5f47b6b9a3db738abb06d955da4925c3e9cf016b775bc38a81363c508615d25"
+    },
+    {
+      "date": "2007-03-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070320_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070320_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b3af817d149635e304d567d23003f41262a4aa618a5f0fe866617b36023093c0"
+    },
+    {
+      "date": "2007-05-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070523_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20070523_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2be0c206ae985cec9147dae8a398d53fa3cdaed3008b9788ec235432a3e127f0"
+    },
+    {
+      "date": "2007-06-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070608_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070608_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "90ab8bbb9b7588f423da79facc125ef7fd1e8a0ff082f04546995a07d9544809"
+    },
+    {
+      "date": "2007-04-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070421_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070421_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cd80557f047cca6da99b93475e1ea07932cc0a94d63184829f2efd2fa2fbe526"
+    },
+    {
+      "date": "2007-07-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070726_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070726_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b399cb86689a7d2aff48c93c3c5b420290e33c8bd85dd0bc9297901f921357b6"
+    },
+    {
+      "date": "2007-06-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070624_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070624_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "134f19b566a852748a1e3b00cf3c490b73d7ea34d517dfbc5a597e52edf86820"
+    },
+    {
+      "date": "2007-09-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070912_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070912_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "53dfbf4acda02b54c45226c9e1bc03a2fdcac1dd391a37151d68c4d8bcd36d28"
+    },
+    {
+      "date": "2007-08-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070811_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070811_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "47a16d5b693d75558afe608dfca4121ec1e6e5bf6dc31fc189a2b780a8a05204"
+    },
+    {
+      "date": "2007-10-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20071014_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20071014_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1338c20d745fffdcaa3c2f0051132730461b7039c4477a52be079fa818f813d1"
+    },
+    {
+      "date": "2007-09-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20070928_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20070928_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5595960dc4a4d347b54c3077da933749edcd7950da46ee7bfff28bc7555b179c"
+    },
+    {
+      "date": "2007-10-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20071030_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20071030_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "66978b310d2b8dcfa6dab65fefe7864a1aca128575a94da145643a445265f846"
+    },
+    {
+      "date": "2007-11-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20071115_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20071115_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c0d8af3b907c5b72175fc01ab151946ddd05bab3e0558e308340fd361af397b3"
+    },
+    {
+      "date": "2008-01-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080102_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080102_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f653ff8d6db92998be0d8234686fa4ff0aa651e778295094da89d7b7edbfb037"
+    },
+    {
+      "date": "2008-01-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080118_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080118_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e47cbb2057a2c107738bf256f32fa2366b9978f2a32ea954095933029850d5db"
+    },
+    {
+      "date": "2008-02-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080203_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080203_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "dd92bc6c9338f41928a005fe606b1cfa26613d45d7b601910f56adb9e73a0f7e"
+    },
+    {
+      "date": "2008-06-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080626_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080626_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "154a6b048ec3c371a936c869d5f1243d6d56a1241903eac7e22cf32736e22967"
+    },
+    {
+      "date": "2007-12-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20071201_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20071201_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cca1906253bf5c6b39f7c4c282a269959be918035966e53a76467733b91436ad"
+    },
+    {
+      "date": "2008-04-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080407_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080407_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8215f6c15b53a978b1384ee83da837988667256c1abfbbc5e4b8078bef91d13d"
+    },
+    {
+      "date": "2008-07-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080712_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080712_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "edb0bc6938c79f7aaf70452d5e43255e034f2052567fa7dad82cb6448fe39d60"
+    },
+    {
+      "date": "2008-07-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080728_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080728_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "da06cd7d8d49d6b60abb315267a1d6b53aff68c2299e705a81b4bf2184170c8d"
+    },
+    {
+      "date": "2008-08-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080813_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080813_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "24f0e16d39bd965dfca31c7f3255f909b1d3876b619006ff04c248fdc85bd61c"
+    },
+    {
+      "date": "2008-11-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20081101_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20081101_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a7573505f4a77ed17a3d2da050f45806f64ffbda723e512ad7df18a5b931e57d"
+    },
+    {
+      "date": "2008-09-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080930_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080930_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e9d95e45b55d7e8fde779529cfc5c90e52bd604df2a8264435b6a76b37a10eff"
+    },
+    {
+      "date": "2008-12-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20081203_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20081203_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1fea12c4730e324fecba5cec16702dc5fcc8cc7a31dbb36b08d098431d85ca73"
+    },
+    {
+      "date": "2009-01-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090104_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090104_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "014c51f63d76444227402e027b7519decbe5ec68a5cfd2f5433153d0e0df2c72"
+    },
+    {
+      "date": "2008-12-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20081219_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20081219_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fe98baaac75c8fe055df37d17ab3db66eb08232ec9ecb65cb91339205f590aaf"
+    },
+    {
+      "date": "2008-09-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20080914_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20080914_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "16bad2b84502e5ac077cab0772eb39a38316a8010579c9bf303d73a6c99474aa"
+    },
+    {
+      "date": "2009-02-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090205_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090205_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "56fc20ffeb7dece93e4aa62d3a6e141c19c8a6a5cbf1cfd2b171ed715f6f1c50"
+    },
+    {
+      "date": "2009-04-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090410_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20090410_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ea7453cf3e8bf9891c1d628a1cdb15c7d97bd86ec1c29cd51fe0c615c3c2cb25"
+    },
+    {
+      "date": "2009-04-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090426_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090426_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f67e0d73d52d470e3dba760f6eeab330d44f1266b16001854b9d9a86d4608772"
+    },
+    {
+      "date": "2009-05-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090512_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090512_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3b199c0630efefcda75d514890665317f84fbc72bf0ae84d2857f41a7e9807c9"
+    },
+    {
+      "date": "2009-03-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090325_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090325_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8e2c0c88e1b0f0b2032cf66e8ac44f744826adbab4c84724a0d416790b0afc91"
+    },
+    {
+      "date": "2009-05-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090528_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090528_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "97eb7ff75edf78b7a666581239f0000338757c1e6d35b9e52afa19d52ab9d751"
+    },
+    {
+      "date": "2009-06-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090613_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090613_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "997bb363676bd01dc9cab36d1e24c81e4b54a18d8611ad0adf62a732ee4be071"
+    },
+    {
+      "date": "2009-08-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090816_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090816_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b3b9c65443d4cb916641caaeff3f5995813615b3774526f43f7c2bdc06b4b58a"
+    },
+    {
+      "date": "2009-02-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090221_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090221_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1cd64de810282e7cc8f3c8a36d8635932941ae9c77ad99ff9e00b6c9e8908c50"
+    },
+    {
+      "date": "2009-09-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090917_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090917_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e1466962c9355085a855075b2f82bcccd515bf0d9a1ba661610be6b1710da470"
+    },
+    {
+      "date": "2009-10-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20091003_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20091003_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b800167b48432117dad2bee31e194fdb14090155125ac8710a0fa68bc07d9ced"
+    },
+    {
+      "date": "2009-03-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090309_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090309_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "190b7591b7f735847e29fc6b278a06d449fd4178b424903ea33c24ead64d43bf"
+    },
+    {
+      "date": "2009-06-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090629_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090629_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fd8b0d28a49c997a6d49e8194a8afc965edb2d40d55bf962c6d2106609921c2c"
+    },
+    {
+      "date": "2009-11-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20091104_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20091104_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2635a7d7fafb9d869854f7996450522dbc4e0e673b85c7360dc01adfbfaf669c"
+    },
+    {
+      "date": "2009-07-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090731_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090731_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "08cd65e05620ec3952fbcccf29d734a966bcd391b3bd50f8154b09cc8b4c87f9"
+    },
+    {
+      "date": "2009-07-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090715_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090715_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6e93665807e115c361a349fa30350ceecaf5299b523d7c3b005569d66c28e247"
+    },
+    {
+      "date": "2009-09-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20090901_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20090901_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "defdadb7ff649a3ab46d5e1775ab56e389754fbff3ef50df486968403d5b4516"
+    },
+    {
+      "date": "2009-11-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20091120_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20091120_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "91772fe907dcae00c2a42da4f9ad96f79fbff68639caf3bdbe1fc687f57ba7f0"
+    },
+    {
+      "date": "2009-12-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20091206_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20091206_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2eff4510566a346a2baed737eb7dac2b52c9c7b01f605e0d26498eeb7eef6901"
+    },
+    {
+      "date": "2009-10-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20091019_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20091019_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "559138366a294cb2d591904fb86d13eeab5b4f98ce7ec933677276e5745802b0"
+    },
+    {
+      "date": "2010-03-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100312_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100312_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2548cef43df14bc73600b9b3ad73a4f5d927cb319682746ab2663ea9d08e663c"
+    },
+    {
+      "date": "2010-02-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100208_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100208_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e199eebf70b02fcb82f92161d6c96318e4e28801a9dc21084f67823d998a673"
+    },
+    {
+      "date": "2010-01-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100107_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100107_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "301fea309a007c297539d52dc132d2569d3ac81568c4f580145cc79370d2409f"
+    },
+    {
+      "date": "2010-01-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100123_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100123_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "11ec1105ec280d15577ed9f33ff985125afcb0621eef2b877b5dde62e6b0c89d"
+    },
+    {
+      "date": "2010-02-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100224_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100224_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5456398f9a67532aa5aa3bad440b7175320d9fc0aef92de19ac009acf3fc9c83"
+    },
+    {
+      "date": "2010-05-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100531_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20100531_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "defdf46de5fd90ff33ae33ecdfeac1ccc22a0642b5179dd1c4f8e13abf9ba3b5"
+    },
+    {
+      "date": "2010-05-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100515_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100515_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f13895402f10c0e4fa0979db999513066edffc6ccc42c7b73a94fe4f47227469"
+    },
+    {
+      "date": "2010-06-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100616_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100616_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c74664d4f347079e672aa04daeffe5873c4ea1d72af33fd1b1eea632ef5a6d3e"
+    },
+    {
+      "date": "2010-03-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100328_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100328_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f46e894d7e4af459583d47a05540f8349abdda1b8382197ac71741028c6f2786"
+    },
+    {
+      "date": "2010-04-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100413_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100413_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2be2f327072213b6562fc56f5b889fedae98ec18ccb97249882df9acffd64b9d"
+    },
+    {
+      "date": "2010-07-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100702_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20100702_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "95e646b7e562c67484f0568e1f34c1cce0fd5cdafb706e72ea52040d75ed8b39"
+    },
+    {
+      "date": "2010-04-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100429_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100429_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "af8cdabe3c7b9eb3a13387d98242793ba0a27de9ce1aadea299389171eb838d6"
+    },
+    {
+      "date": "2010-08-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100803_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20100803_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "51655435e3a0c0eef8f7915e634b54632d4a32355741883234c0a7ce835543e4"
+    },
+    {
+      "date": "2010-09-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100920_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100920_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c9bb9dd30b074f1792a0c17053c62a966ca6f9d21b0fe146a49c0c465cb0356b"
+    },
+    {
+      "date": "2010-07-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100718_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100718_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0b6ed08c4741aa8f2dbabbfe9b6d569daa0b5b847e2829f0aa7a62c8fa877273"
+    },
+    {
+      "date": "2010-09-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100904_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100904_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "01e6acb661a90db1ac468756a82c788d844cdd8525048bec9a19c5a49800fbfb"
+    },
+    {
+      "date": "2010-10-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20101022_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20101022_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4edebcf548b37dcb5d682570f039077a460325f63adebb5ca4c64843387935ca"
+    },
+    {
+      "date": "2010-11-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20101107_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20101107_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e54ed795ff1cab95821f964082a5e325fc360cb7147b1be5efae1098d3879609"
+    },
+    {
+      "date": "2010-11-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20101123_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20101123_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f50fc8c79e4b3371762f78b59f06330d8a919755060cef148a9dc95c0d967774"
+    },
+    {
+      "date": "2010-08-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20100819_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20100819_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a77e3b7074dc91f5b46ac43e1a72a2121c88f488a1c586c724e504d5b061e575"
+    },
+    {
+      "date": "2010-12-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20101225_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20101225_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5d7d3ece823da7dfa1f0bcf6588a503c3d5526322ae23c93a7e176ae4f0f3a71"
+    },
+    {
+      "date": "2011-01-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110126_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110126_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cd03eb61a7095509e0342d6e3e89cf620669c70c03bdfcc5812a51f253fcb4b2"
+    },
+    {
+      "date": "2010-10-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20101006_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20101006_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f678ee96525f79b7c8cce29c476e7ceb7bb28a67236e57c9d9330a906c2a9e63"
+    },
+    {
+      "date": "2011-02-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110211_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110211_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "80fbe66b2f3162bb825a29c15d8ad9cdf401036b311964f8cb32173130ec92c5"
+    },
+    {
+      "date": "2011-02-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110227_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20110227_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3cf9d28339923acb6c653f734ed7e27b977d52cd67c430acc7972a9562888912"
+    },
+    {
+      "date": "2011-01-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110110_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110110_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b397ed1f408ae1e4f503071f0dbbe49d2e4f532a8324b1ed832291864d84e68a"
+    },
+    {
+      "date": "2010-12-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20101209_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20101209_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "343199abd14522a2ace64478f7dd8ddca5bb92092ce1d9050840a6060ad145f7"
+    },
+    {
+      "date": "2011-04-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110416_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110416_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5a20f775c9b323dd2bcd72637bc0bd3309b62f6574c39123fce3293205c84f89"
+    },
+    {
+      "date": "2011-03-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110315_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110315_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9a3c7cdc5eb64d579c0245e61cbead9695bc01ca52aa75268662798c87fc25df"
+    },
+    {
+      "date": "2011-05-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110502_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110502_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ae0be20b88a4aeb0d8358b4dfb5dfc2aa79b158cd3f6fcbfc0c770c517dc6c5b"
+    },
+    {
+      "date": "2011-05-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110518_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110518_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b5a946f394ca44a09fa3f8fd784c8ceba12e9c9c9b3edf3857238efbb22b4cec"
+    },
+    {
+      "date": "2011-03-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110331_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110331_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1bc310acb75d7bf53e2de0eaf81c7019ac20184e7f435ee91c25798e27cd6aa4"
+    },
+    {
+      "date": "2011-06-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110603_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20110603_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7f5640eb2e1b18cac37678aa5e8d4c9bb5824b987822f4801cf726a593b3d26d"
+    },
+    {
+      "date": "2011-06-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110619_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20110619_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e6c733f00241ffffb1c446d6c837c1f2a67da83686cb24f0c14fccd1239cba5a"
+    },
+    {
+      "date": "2011-07-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110721_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110721_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e0fab741f422ac78ede3f40ac471359c2756826df327964682af3cc242d15ef"
+    },
+    {
+      "date": "2011-08-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110806_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110806_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bf371a6b5c35802004baab27637b6de9686a881cbfc0b5cb7cf250f35969b9a3"
+    },
+    {
+      "date": "2011-09-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110907_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110907_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6f3a3801779495bea4eaba28368538a88e969dea4bbb171a3cc9aaf093cdf079"
+    },
+    {
+      "date": "2011-08-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110822_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110822_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9020dbf9ab224a98e508a0d760115737ffb21a8dfcc90adb23966520a31d7fd9"
+    },
+    {
+      "date": "2011-09-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110923_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110923_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7f62192b76d54a29de2cb30d6e4c7a1f07ccfe405ce8d49555aa26fcbd667278"
+    },
+    {
+      "date": "2011-07-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20110705_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20110705_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ce68f59f40527a8ad143dfc96df5dc13271844de0e842a5619d0de2881ad31e9"
+    },
+    {
+      "date": "2011-10-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20111009_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20111009_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "78991a544613854f062dd274dde8d23f29392c0d48fea6b2165ec540c264498e"
+    },
+    {
+      "date": "2011-12-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20111212_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20111212_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7c9e70a5de53c0ca59403d9cc4a9395a5b4ac1938d3a1374b0237ec36a246a86"
+    },
+    {
+      "date": "2011-12-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20111228_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20111228_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ca0f444827cc09aaa04aef94bfe73c84cb36f06153b51afda584e032b38e59bc"
+    },
+    {
+      "date": "2012-01-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120129_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120129_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f738562f6995f46cb84ea4b36bf09c4fe797f1ca061751af59db56050e232596"
+    },
+    {
+      "date": "2011-10-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20111025_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20111025_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "725953a7d83859b1f9453ca19abedebb177279907147bb656d7c01f570f0b638"
+    },
+    {
+      "date": "2011-11-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20111110_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20111110_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1c1813ac822ca937d2078d7f5fca2a062a2367b56a3d3e4f67aca5d8180d025c"
+    },
+    {
+      "date": "2012-02-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120214_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120214_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "93099fd9b76b67916a7003ccea4c0ec5b58e9e6fd37e7fc1528e678d7b761500"
+    },
+    {
+      "date": "2011-11-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20111126_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20111126_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "26eb96bf53bab587f4791f0f810040053189a9b3d59ac95cf699804130770a25"
+    },
+    {
+      "date": "2012-01-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120113_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120113_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1de7678aab456004b6065b9e739469b9186c47df70c13f6176bdde99642305bc"
+    },
+    {
+      "date": "2012-03-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120317_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120317_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "18495e01dcaea76b998f3968a0a8b41a79390961a5d38fd02f10aa922bbd22de"
+    },
+    {
+      "date": "2012-03-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120301_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120301_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9fe1ab39f5f8b03004378ef2482de056868f3ce52be520c67593fde6d14cc1fa"
+    },
+    {
+      "date": "2012-04-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120418_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20120418_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bb9234da7b8398b79af1dd328ec074c5dfb2ce00252f4e4a607719d1c5116893"
+    },
+    {
+      "date": "2012-04-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120402_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120402_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "58818ca164c75ee925d3f484fc66019a6e059c6cf294c421eeb734773a20e403"
+    },
+    {
+      "date": "2012-05-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120504_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120504_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5bf7bfbac0b46dfbcb8566451ceef4ec6d0709d2d0e44ef2341eaf6d6889298c"
+    },
+    {
+      "date": "2012-06-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120605_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120605_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a18ca28ab73560882986ddf9f9532708e64ebb01c0a87d702399b339a9a317aa"
+    },
+    {
+      "date": "2012-05-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120520_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120520_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a71987180349ca936072b1faed596ada22d3077d3fc242c61a38076a76c41e7a"
+    },
+    {
+      "date": "2012-06-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120621_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20120621_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2f8cbf7a53a4111af1ee16c9a16cc7b6715262aa10162996db0d7f6789e71545"
+    },
+    {
+      "date": "2012-08-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120808_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120808_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "988a019d4247af0ee2939baf2e222a996ee4adcacd67f9a3eab5c820c2d4fb0f"
+    },
+    {
+      "date": "2012-08-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120824_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120824_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ec30f71b7ce1c790ca0cb6b401f4f64ec64df2a434652654f15897c73afa81e4"
+    },
+    {
+      "date": "2012-07-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120723_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120723_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "42b32e5f0527197671c2b39e7b23f8df3cc02227cdf1e7a461595853b04cd8bc"
+    },
+    {
+      "date": "2012-10-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20121011_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20121011_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "67b3bc3f2f6389a1307ce99cc3bbb6c06c7ddfc6e50e100a63163fb0a84c4c6a"
+    },
+    {
+      "date": "2012-07-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120707_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120707_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f903d2271efe603e606612ecea400d127a7a262221d715eb63751b3c2840f65e"
+    },
+    {
+      "date": "2012-10-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20121027_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20121027_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c2737c5a47b847fbd452ac3103161a7245cfbccfa82ee8177bf252a57ea103e8"
+    },
+    {
+      "date": "2012-11-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20121128_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20121128_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "18fe829afe638045fca5b4dbff4c50e4f05e984211158d0541c6bcee6d28b2cd"
+    },
+    {
+      "date": "2012-12-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20121214_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20121214_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6b5334307b4229dcd52c98614f651a89d24114bf53a497eefb54518168628306"
+    },
+    {
+      "date": "2012-09-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120909_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120909_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a5b7f375dc0d7722c4b99a79b2ef105224fa1094c9a7037f8bb06913e7e778d4"
+    },
+    {
+      "date": "2012-12-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20121230_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20121230_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b6cf3836a293a665848104b411b1f5ea2bba39e898a5e4da379feb5e5cc99e8d"
+    },
+    {
+      "date": "2012-09-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20120925_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20120925_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "795050b78e2fa77b9ded0d316baf078b20dbe4797e695683a1e33eef685eb5a1"
+    },
+    {
+      "date": "2013-01-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130131_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130131_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2ce3588b3133779158302db65d067318f7c964ea5c1d5a4451a52fa29132692d"
+    },
+    {
+      "date": "2013-01-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130115_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130115_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c3de3a4404f76420a1c4c711644efe1b73c0b960fd8315533c0dc2e6399a852a"
+    },
+    {
+      "date": "2013-03-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130304_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20130304_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b928f1d6f2afa3b2624ea9385757d7b6bd6bbaa7d21ed52bbecdf5ef9a1e68a2"
+    },
+    {
+      "date": "2013-02-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130216_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130216_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "df4efa447f96244494b94e749e73c37823e20b4f1e02002cc7286f2427aca12b"
+    },
+    {
+      "date": "2012-11-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20121112_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20121112_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c40235b3a4cc80194ac5227f9b1e1f84fba829e117fe344a8d2d86692cf444e2"
+    },
+    {
+      "date": "2013-03-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130320_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130320_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b829e3244465a08e6a384828e1ba56d0eb8bc5232c84118bf1d50e55fbcb35b4"
+    },
+    {
+      "date": "2013-04-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130405_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130405_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bd0a449aec05d30858aa83791e440a23798c0143f33ec4e42f877ab46268540f"
+    },
+    {
+      "date": "2013-04-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130421_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20130421_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a1b58dc7eee83c753a9a61beda2bf4ef7204c681584f42fc3e13d06016e57899"
+    },
+    {
+      "date": "2013-05-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130523_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130523_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9093bf9eaf2bf4c73df4e8a41ac6089bbd61626e73a71e391b244836796571cf"
+    },
+    {
+      "date": "2013-06-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130624_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130624_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9a7c7a3dc0ba2302914807d17087129425e90170fbf470e4c2b35be6fdd84380"
+    },
+    {
+      "date": "2013-07-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130710_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130710_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cae9fd2622a4ba90154300a528d807a01e2652d2397f9938132c8d6f7097c662"
+    },
+    {
+      "date": "2013-07-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130726_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130726_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e40c0c716ed2ad1d3563ff9e89bdcda33d1cf17e335086632a6ec5aa61c597f9"
+    },
+    {
+      "date": "2013-08-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130811_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130811_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "599a9c721611a76b6229f3ed6d518304692a5e21001694b472b545fd257d60a0"
+    },
+    {
+      "date": "2013-09-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130912_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130912_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a9bce0554dd4206a51d825ed44605efed37ee2376089f701ca568e69948b6667"
+    },
+    {
+      "date": "2013-08-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130827_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130827_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0c8a733f30bf6b447c68d6fa358ab01328817c97f14c1ddec0737454d093e599"
+    },
+    {
+      "date": "2013-10-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20131030_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20131030_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "36dc2bc9c0c9f80588fe2042b9b17567d7cea8d86eda70e1f438e5a65d464b85"
+    },
+    {
+      "date": "2013-11-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20131115_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20131115_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cd95fdf58d39bae6f19c0a2536e7e71e8dba4562c52b6215bbb2ed5a03ca0938"
+    },
+    {
+      "date": "2013-06-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130608_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130608_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "af9509c7eebd71e07cbed0e19103fa35d59752d1bf22f79f97b8501fd9797693"
+    },
+    {
+      "date": "2013-12-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20131201_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20131201_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0027f3559e7345d0da46e4c23a9582c0459f94ae61fbb92519718f55994ce83a"
+    },
+    {
+      "date": "2013-10-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20131014_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20131014_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0dd3b0027863e77902365daa536134a20c67f36446c09ecc3c8103d156b9e915"
+    },
+    {
+      "date": "2013-12-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20131217_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20131217_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d93b96f457df29eaf96bd3c252438ab9052f383b6681b62c651b5427c8f7cdda"
+    },
+    {
+      "date": "2013-09-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20130928_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20130928_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a84787273d18779383c00beea16c2a039f5b005ac4e602c8121530b7836e991f"
+    },
+    {
+      "date": "2014-01-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140102_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140102_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1adc294ad45b603d6b6e657a373527e3beda12e6ff94253f0968cd3f18d2bc0f"
+    },
+    {
+      "date": "2014-01-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140118_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140118_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "83c1279e6828ca7f07485f05c31d285114bbd25a106e32333a7ad42f885e0abb"
+    },
+    {
+      "date": "2014-02-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140203_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20140203_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3b3b5b7b55191e1c14419a40835e998211002ba2d94663978047e2fcf253bdc7"
+    },
+    {
+      "date": "2014-02-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140219_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140219_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1fa3162dca65342f9275dfa2896d1de03b0302db6220431898329173eae6862a"
+    },
+    {
+      "date": "2014-03-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140307_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140307_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3a9b525786546431843951fb384b45f96b8cc965ab6be0a8178bdb7a6c562c1a"
+    },
+    {
+      "date": "2014-04-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140408_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140408_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "caae82cdfade87f4b83f7055d3853a02087dfe21ac22504a1f77c5d326367721"
+    },
+    {
+      "date": "2014-03-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140323_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140323_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "17b8473efe9767783a35a3fd5bb0b5208f087d66f4e72258708c201201c401ba"
+    },
+    {
+      "date": "2014-05-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140510_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20140510_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7555de4aefa1e2756a32125b9911c8a798f744046906c245cae669fe6ccc342d"
+    },
+    {
+      "date": "2014-06-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140611_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140611_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ab30bb2a9e8a429fb3279285eeb218ae300ab096fbe90adbd38d1036d90b7201"
+    },
+    {
+      "date": "2014-07-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140713_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140713_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5694c6a93634033363a60ac2b5deacc68e94301d0351d511bc23638aeae6e8a3"
+    },
+    {
+      "date": "2014-05-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140526_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140526_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b3517a789ff4076d5eb41863350960ec275028c2757ee4028462b06c99ccae52"
+    },
+    {
+      "date": "2014-06-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140627_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140627_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "79f81b1a69f1cc928a8205f744a4c2682844917b41ba40c354efface258fa7b8"
+    },
+    {
+      "date": "2014-08-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140830_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20140830_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "32d20a117b573cbd05f3de86423f4010dbb1b03436f7b311bfa890f7b2f6e9eb"
+    },
+    {
+      "date": "2014-10-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20141001_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20141001_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "749311b6c157cef4272d0887e18515520a644a8ab4699e4a4fccdf0992c6322f"
+    },
+    {
+      "date": "2014-08-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140814_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140814_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "287a88a74a920193a87182addbf839e8da72f6c0b7ed8ab08c9454beec3d9e9b"
+    },
+    {
+      "date": "2014-09-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140915_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140915_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "78323f38d8b9f614041eb9f07863a2948b267133851935caa8e2f46787f0648b"
+    },
+    {
+      "date": "2014-07-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140729_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140729_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e8b453bb6858cc22db13014efdeef0c354c7521a0ca44668f4eeec20afc31b10"
+    },
+    {
+      "date": "2014-10-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20141017_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20141017_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bfa7ec22602e6896233da145feb6fe712ec8e477430d823485e115a6956066c9"
+    },
+    {
+      "date": "2014-04-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20140424_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20140424_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1525214e0d999483de00adc14a7b27a2555e01205c49256e5d5f4187e9b39a36"
+    },
+    {
+      "date": "2014-11-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20141102_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20141102_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e7b770f1220e06657b29843782ad607c082b3fea53f643e45a6235593ff9db73"
+    },
+    {
+      "date": "2014-11-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20141118_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20141118_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8524845a5c247b733fad696805badcf13a82ad6d42a32478254a3e77e00a682c"
+    },
+    {
+      "date": "2014-12-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20141204_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20141204_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "48806614d4065a2b5d0fed3a07e0179e2e0064bcdada793def1474a11f851802"
+    },
+    {
+      "date": "2015-01-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150105_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150105_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9968707132d8e00804d77cd550f46ae300911a1f30b2e80e5ff97e2c1f71ee61"
+    },
+    {
+      "date": "2015-01-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150121_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150121_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "967f93f0087b272e2dd0a4a643eb9015534a721fa8d957b8438b6bd22979147a"
+    },
+    {
+      "date": "2015-02-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150206_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150206_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cf46d8ec8461d43e4f9eda3052d7c15ca66448d0eb6d5ed4aa6f98982287e57b"
+    },
+    {
+      "date": "2015-02-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150222_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150222_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "970ba445433c3605177cf8d528e4cd07d01baf5b1de2b98bdfc70f1d9f1ed9de"
+    },
+    {
+      "date": "2014-12-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20141220_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20141220_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c0346fc565b6d465d0dd0f6380c1552dc44c93dcc4d2103f5f926d542dd024a8"
+    },
+    {
+      "date": "2015-04-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150427_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150427_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e78e57e2af02aecbe86656ccd50bfb971e3eddcd1558e0bec48ad9d4708f7f6a"
+    },
+    {
+      "date": "2015-05-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150513_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150513_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0c52e85ea88638e7fc2b0424ba7bb239fd497d6551697003e380246d90d7eb47"
+    },
+    {
+      "date": "2015-05-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150529_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20150529_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5993f21fdb2a33453e134e09ddd9d4638e067781f33db9fdf03b3d6df8047ce9"
+    },
+    {
+      "date": "2015-03-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150326_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150326_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7293fc2e5099bcbf936678483394ebf224bd2760ae5af99fcc29598ed9950882"
+    },
+    {
+      "date": "2015-04-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150411_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150411_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8130c87fb6050f3c523b9848ccc86ac28cd5a943e6fe07a5dcb6114b043be1da"
+    },
+    {
+      "date": "2015-07-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150716_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150716_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "57579e739771ea1f5e03861f1ae393cf667802a559b17e65db040928f9600eca"
+    },
+    {
+      "date": "2015-08-01",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150801_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150801_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f2d6eee1d09f8d9f7da206b00fa11afe0985f7c251e5742841351390f72144b3"
+    },
+    {
+      "date": "2015-06-30",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150630_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150630_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "180d3527ef4b5b9b50c1abb9805784f5013a0c29e9524b86e71c0056e6d810fa"
+    },
+    {
+      "date": "2015-09-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150918_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150918_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b092e35ace7b28280d88dcc5b84d49a4c47012e1ca3ca8950eb2c1be9cfbef7e"
+    },
+    {
+      "date": "2015-10-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20151004_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20151004_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bfd4902e7c42d48162125d0184f0f4d771cf8cefcbaafc0bad966c6ae69059e0"
+    },
+    {
+      "date": "2015-08-17",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150817_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150817_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3681058b7c6ccbd908e31d27767fcb18a543194e064fbf4fb084893320c70c2d"
+    },
+    {
+      "date": "2015-09-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150902_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150902_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "858c631fd2775b4bf2bcfc3442e500b721ab5dde424c1a5a9eb948fd4054b014"
+    },
+    {
+      "date": "2015-06-14",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150614_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150614_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "af58c61b10015b9b4bfc677424477a39d79c5ab593da1c9f4161ea2d014c1f82"
+    },
+    {
+      "date": "2015-11-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20151105_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20151105_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "48729b84f6607e727f16af2a5d09d9572885e5634e735ccc743c39cbf358e56f"
+    },
+    {
+      "date": "2015-10-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20151020_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20151020_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c26e4c5b2c1571d4b5549b9f391376982c6f7504ef7a8a11012a06a650ed0ac5"
+    },
+    {
+      "date": "2015-03-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20150310_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20150310_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "69bd7da7e5463ba488754f0e0a560405928eec55364f099f44940d9f4b473173"
+    },
+    {
+      "date": "2015-12-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20151207_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20151207_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e7aa0280bb4e1f1605f5e9bf0733caca1435d1971b6035ddddae85a59da33f9b"
+    },
+    {
+      "date": "2015-12-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20151223_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20151223_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "955aa9dd209394cbe0f82ed9ea41b6b31fe9729efdfa23395b244cc4ca851179"
+    },
+    {
+      "date": "2016-01-08",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160108_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160108_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "65c16172695fd4eaf0e33c5162d1abd5da408db4664444f4eb935525eec85479"
+    },
+    {
+      "date": "2016-01-24",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160124_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160124_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ff49f075d6fa0d81e80550938dfb52d5735096fe8db0cecdc1ee58590af27566"
+    },
+    {
+      "date": "2016-02-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160209_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160209_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4f0bfef6eca5e92bd38c14f4dbbd00e22623a563fd33b5eafbf14dda1a126b30"
+    },
+    {
+      "date": "2016-02-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160225_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160225_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1dba927a9ae10caec0cc96ad15f21fd811138b0854630277037e348f8f578da9"
+    },
+    {
+      "date": "2015-11-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20151121_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20151121_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "39e8f6652fc9dda890da7b0c13cd93a5d8bb56695c759afc4876c060fd10d217"
+    },
+    {
+      "date": "2016-04-29",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160429_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160429_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c75b81db016796e9ef65a48e81a00d15b63bfeb1140072c27d85a1b20ee90303"
+    },
+    {
+      "date": "2016-03-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160312_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160312_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3d0d92c936b75ee85db465ade1004afecc2e937642a38ecfb569b76bdaabff02"
+    },
+    {
+      "date": "2016-06-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160616_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160616_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "31ca7257bcaf2548358d3f9f764cbb7cb968129bf2f65d32b23d8068ebdbc8cc"
+    },
+    {
+      "date": "2016-07-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160718_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160718_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "36f271224e9e800328649f7dda3d8155f75378a48135e3ed8d22ba7a39201156"
+    },
+    {
+      "date": "2016-04-13",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160413_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20160413_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c59366959a6676b3c03e00d47c7acb226a4101a95ee147f51f001fbc1cfb6afe"
+    },
+    {
+      "date": "2016-08-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160819_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160819_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "af2d5a9eb10b1db9936795f4b9ce8ca94fb134b8e17788cb714a451a080cf655"
+    },
+    {
+      "date": "2016-08-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160803_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160803_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9f5352e5d9d78342a8a375b8f0ba4dae508e73363038163e3393f3ac621a4a6c"
+    },
+    {
+      "date": "2016-05-15",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160515_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160515_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9d7aded26b7609f18c3e171224d307e66ba4d4f553d91116b9b802decb2c1f98"
+    },
+    {
+      "date": "2016-03-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160328_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160328_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "61d52979498e847195d12c1c399c0fc60bc95fd9a3815017370a727f32117c18"
+    },
+    {
+      "date": "2016-09-04",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160904_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160904_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4a4ab42f0bc163992061cd700b5f2d9c2ca74b5b7011607634dd030853133a4b"
+    },
+    {
+      "date": "2016-09-20",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160920_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160920_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4324542b1820c4ee6ff536a68965d5b5551c84db4890eceec3d7a0113c695c0e"
+    },
+    {
+      "date": "2016-10-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20161006_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20161006_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bd854f4070637e26c02fcc7f1f8fc9533a6567b1f297b61244539feaa8837861"
+    },
+    {
+      "date": "2016-11-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20161107_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20161107_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "672447687f7faea51f2edb165942b5ad0465233fc90832dcf3eeeed66f578548"
+    },
+    {
+      "date": "2016-10-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20161022_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20161022_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "10db8d817f2ae95830eb7b151373f8bebc10bda0f236174565ff990ebfd7aa26"
+    },
+    {
+      "date": "2016-12-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20161225_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20161225_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d9a8ee370246d4f6b3c0ed58a56d61890283b140c841b8bcd6a9e0f4253fdb1d"
+    },
+    {
+      "date": "2017-01-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170110_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170110_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7472e280be9c108c5d8430800e241a7398477c5e4cb0c5f79068e41cadc68a22"
+    },
+    {
+      "date": "2016-12-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20161209_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20161209_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e4c79baea4ca50bb55b5c1d85c03b8916dc1c3b81526005c8e424963914b15fe"
+    },
+    {
+      "date": "2016-07-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20160702_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20160702_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "71763536aaa329fb96add9bfda3a826ca69127096cf34c212e8222919993ec0b"
+    },
+    {
+      "date": "2017-02-11",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170211_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170211_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e2696ca445d38a104d082d9110027dac7ea4b2bb4d181040e23d4c05e87e53ba"
+    },
+    {
+      "date": "2017-02-27",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170227_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170227_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3ecb21966a1fe21cf6749517b864b447c5a8635396b936bf96758e668a3ccb1d"
+    },
+    {
+      "date": "2017-03-31",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170331_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170331_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c1eb3877705e67c31f7df098b01bca18983f34b69ca86aae5a6fd1ca1653a30e"
+    },
+    {
+      "date": "2016-11-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20161123_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20161123_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7465e07d3fd22a87d4d6be0b6ef9767645da0c6d5265fc738d1d95e2cb5cace1"
+    },
+    {
+      "date": "2017-01-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170126_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170126_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e4b92185d8635fd77f3e956e1778bfd90bb8bf2b38067049dae585c7bce74989"
+    },
+    {
+      "date": "2017-04-16",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170416_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170416_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f8698d55a3de572e65c9a4ee944f5de6da46e9e019f0b027dcc14dca63d7ade8"
+    },
+    {
+      "date": "2017-05-02",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170502_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170502_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ee74a169dda0421a6d991bd36d6099ea2a2add705d991e9cb628963c3cb0ea11"
+    },
+    {
+      "date": "2017-07-21",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170721_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170721_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e02ed1225eb3903776784843676f9f24b711f176e94485dd9fe6659b1e2b3f9c"
+    },
+    {
+      "date": "2017-06-03",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170603_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170603_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ca72efd992cbfd00866f0812878b60862a82d31c6e59ae7bc51df9ef48184f1e"
+    },
+    {
+      "date": "2017-08-06",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170806_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170806_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2be43be8d23989b30f6cbb4702c1f214dd53fc51ed172b4a14dcb733c5abb0e9"
+    },
+    {
+      "date": "2017-07-05",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170705_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170705_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "707fc211414e927802c4a99a8bb0a5cf4637ef321a1e554dc745c894ec6785c4"
+    },
+    {
+      "date": "2017-06-19",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170619_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170619_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "da3f866f84b2df5ec680e52bc6b77a49f0b0b8d4caabd9f3ca0e1c745c44301d"
+    },
+    {
+      "date": "2017-05-18",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170518_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170518_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "456080a49876d6c2c64f567b592bbb77081d3de840525a7b0e7fc9e4b4c595f7"
+    },
+    {
+      "date": "2017-09-07",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170907_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170907_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cc8bcff3e51464f56c1129b48f1a349c3bd49eb22db2cb67ce3f1bf69e985eb7"
+    },
+    {
+      "date": "2017-11-10",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20171110_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20171110_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "df5f85e0eb7b895e24221ca9695e1cbfeb24c142ca5a6fab64def7d0141cdbbe"
+    },
+    {
+      "date": "2017-11-26",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20171126_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20171126_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "57e35018eaab1b7e97c079f3be74a37a83c2c79392302a16b1d0518726e31838"
+    },
+    {
+      "date": "2017-10-25",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20171025_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20171025_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7912a310e1c2e0c6a237bd635114b81730df0f5365d54297f78d8b4c7d32640e"
+    },
+    {
+      "date": "2017-12-28",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20171228_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20171228_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "76a3b98f2cc6041c6450edf2fee6a665a08ec1603023e9dc497f2ac9f5b7cd33"
+    },
+    {
+      "date": "2017-12-12",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20171212_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20171212_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "cbc0b4511779dc0d84c0973e7ac8cfbf28436f856b7629cb2d56185a7e20ca23"
+    },
+    {
+      "date": "1998-04-29",
+      "sensor": 5,
+      "file": "LT05_L2SP_006055_19980429_02_T2.u16",
+      "scene_id": "LT05_L2SP_006055_19980429_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ba628ad15d378bf9f9ccf0d4052e8aba8b3dabae836d3a489a2fffcfafc33d14"
+    },
+    {
+      "date": "2017-08-22",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170822_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20170822_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9a086be96420bb641a14b826ad186677fe77a52f57e582e0383ee185622b357e"
+    },
+    {
+      "date": "2017-10-09",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20171009_02_T1.u16",
+      "scene_id": "LE07_L2SP_007055_20171009_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ba89644de2af70ecd239b1223ed0b845681efb93e1a19ef2be9cdbcccec0a19a"
+    },
+    {
+      "date": "2017-09-23",
+      "sensor": 7,
+      "file": "LE07_L2SP_007055_20170923_02_T2.u16",
+      "scene_id": "LE07_L2SP_007055_20170923_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "65612e66cc4adfed3352dbdcb76fcaf7a0cc0aca05002792d29e805c35e436fb"
+    },
+    {
+      "date": "1986-01-29",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860129_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860129_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "83d2e747b3c9a6d141ee26acdb8811dcc59126db7a0ca12343662f686f3a4305"
+    },
+    {
+      "date": "1986-01-13",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860113_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860113_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f831a384c6f8681c7782e4b844a8b066855157fb73e66f2b25da9dfe039d108d"
+    },
+    {
+      "date": "1986-03-18",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860318_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860318_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a364595b241dccc48c40d6ac4ded1d0f73eee67329e2885e4761a91610126fc8"
+    },
+    {
+      "date": "1986-04-19",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860419_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19860419_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "16d1624f180036bbdff6945020142b66e5edc73d551091b679795268fcabb362"
+    },
+    {
+      "date": "1986-04-03",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860403_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860403_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e7d68f6f85f5b4f4e49843515a5e89bea4a7a3aa3631fe081ce1351b98b6897"
+    },
+    {
+      "date": "1986-08-09",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860809_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860809_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fecaf45aae7a9a4b2f7653d1130348bf2fc7929e2e421337dda1eae51f4c7470"
+    },
+    {
+      "date": "1986-08-25",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860825_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860825_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bd4ce58266e6b182907f85287c6ac69a49c92fab0c4d29b5f413d85f4be3e9ae"
+    },
+    {
+      "date": "1986-09-10",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860910_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860910_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6a24708149d08c9f3b57af12ea4e020f7a85d7d75b059320253ed00ea951d85b"
+    },
+    {
+      "date": "1986-10-12",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19861012_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19861012_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6fefe16263ea63ee72622059fc3edf0e03ecbb4b5968c7551804c38f6e6f2a50"
+    },
+    {
+      "date": "1986-05-05",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860505_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860505_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "243b955359180a11ac51ec75e4595604a5486ee923aab63ea1f7dd593a46206e"
+    },
+    {
+      "date": "1986-09-26",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860926_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860926_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "68e37eb48bfbc0ff0e68237c1b1496f2e10c7176bc8b63f129b7bf122c6c8106"
+    },
+    {
+      "date": "1986-02-14",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860214_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860214_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7ffa993133e4cc862b931621c7166e4092511329397d2cfede7bb26beec1227b"
+    },
+    {
+      "date": "1986-10-28",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19861028_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19861028_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "867903fe2c21f619dddaf4865510186442010b2c923ba5034ee1fb9842be3921"
+    },
+    {
+      "date": "1986-03-02",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19860302_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19860302_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "32a80f9ebb935c66831f0db81bff0f3461582be2bf42fe9e25871f64bf405709"
+    },
+    {
+      "date": "1986-11-29",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19861129_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19861129_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2be4acd72c38e77ceba2df15666f42b5e758943ec66dd9a2862f824b8b1143f5"
+    },
+    {
+      "date": "1986-11-13",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19861113_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19861113_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "53e5a34cd40cd05ff1d38160b85a97c75e1bd53999f1eeb852006214980480f6"
+    },
+    {
+      "date": "1986-12-31",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19861231_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19861231_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ceb65db56e3820b880e25783607bdc8be06a806d3c2c5df72d6207ef608b4457"
+    },
+    {
+      "date": "1986-12-15",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19861215_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19861215_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5f22b860621854c9699557b13b9208da5882c9e609e0d37f130efa2864175120"
+    },
+    {
+      "date": "1990-01-08",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19900108_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19900108_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ebdff764bb100a20c1bddb5b3e549ed1c06773cc6910c5e515c6c82558781fc4"
+    },
+    {
+      "date": "1987-03-05",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19870305_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19870305_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a8ea3073f348d191e6f0616cab7f80c9e6c7212ab7ff385b9a5cbefa1f57314f"
+    },
+    {
+      "date": "1987-04-06",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19870406_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19870406_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9e11b136716c81c313f12fbb331e88be391962ae5e7bb94baa3b23103f08d7ab"
+    },
+    {
+      "date": "1990-01-24",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19900124_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19900124_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1c158d2d3df1a1ec9f19047853c25aa70612f675c9e227ece7632a34141098eb"
+    },
+    {
+      "date": "1990-03-13",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19900313_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19900313_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "67565a6403db5a584907e5bd2a92363620a7b9df3ac503c7fa7a1d7417c7a3b6"
+    },
+    {
+      "date": "1990-04-30",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19900430_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19900430_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1c79431a91749f21de7f962c894f40d31c71a91128f33c71873ba655fce1e0b4"
+    },
+    {
+      "date": "1990-04-14",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19900414_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19900414_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9c4d75e1f4f8fa667131910fa6fae9c1e369f2d47f641a3d19668ab305aa47fa"
+    },
+    {
+      "date": "1989-11-05",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19891105_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19891105_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3722c7e65f475e8f13d50a2928ba58bacc10e91ecaa35893b64a51a5be735942"
+    },
+    {
+      "date": "1991-03-16",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910316_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910316_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1a274d8bf0c8c539432a85541786334f9b56802de13ad611c1fc9b351e2dfb30"
+    },
+    {
+      "date": "1991-04-01",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910401_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910401_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "62022b8571b1e1fa8c7ba6639b447c228d09834e730f3a60eb26e49dd48f04f1"
+    },
+    {
+      "date": "1991-04-17",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910417_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19910417_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d9f7e06274bea1192f9d4ec39726810518dde3dcb072259e3d43a2f37642cf8b"
+    },
+    {
+      "date": "1991-05-03",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910503_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910503_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e7dc14bca1f612e7e9cc1c5e2d186e01c0a90b17181345b697df5fccd282ea2"
+    },
+    {
+      "date": "1991-05-19",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910519_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910519_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7bd3ee72de6ae87a5595e8d224165962b26537ea17ebb4d30124957e92ce4049"
+    },
+    {
+      "date": "1991-06-04",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910604_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910604_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "998368975ee1c986222211f438c28da82b0aba744ea8c8e2cd3ea8e89e9dd120"
+    },
+    {
+      "date": "1989-12-23",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19891223_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19891223_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f5ed2fadae1df527f42aeb1850fc619c3d679c89706cb172880e0ae54eefc014"
+    },
+    {
+      "date": "1991-07-22",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910722_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910722_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "fe2c5d740280b04f2462fc28625dc5afda3b54254eea649ff7017db5eaa73120"
+    },
+    {
+      "date": "1991-07-06",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910706_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910706_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2d3f267e3ab7fbc7cdcb758ad12df4d8391b97e90c3d6203c195794a9b26b600"
+    },
+    {
+      "date": "1991-09-08",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910908_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910908_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c6f3144cf1c3356b5af20d89b76406b2434d9124ef5e4ccae59639d98c910558"
+    },
+    {
+      "date": "1991-09-24",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910924_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910924_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1276f8793bc5837ac1061fb5c8fc0ed2cf9c75b90ab8963e0d043c863c48abce"
+    },
+    {
+      "date": "1991-06-20",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910620_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19910620_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e6cefad9f421f8bc652e893caaad47ecc4bd0044f7e932f565e8d58fc1a32ace"
+    },
+    {
+      "date": "1991-08-07",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910807_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19910807_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "949bdcc64b7d9b2c616cf455cefeafe9884154ceda70e81630289d1596811ae7"
+    },
+    {
+      "date": "1991-10-26",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19911026_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19911026_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "41c171578dae156679d787512c44d1a7135098c53139b95aa6518a6c35607bd2"
+    },
+    {
+      "date": "1991-08-23",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19910823_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19910823_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "143de8645c2101d9ed4d25f5fb889c2247ad90cac24f1e48fc24f85c2c48afd4"
+    },
+    {
+      "date": "1991-10-10",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19911010_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19911010_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4e927ca0c5f5e0b891a4df6f3822d312f50d2100757f2e0e2a1f1bfe9e84a38a"
+    },
+    {
+      "date": "1991-11-11",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19911111_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19911111_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "08257a7563315b419f3c56828281000308c11e70b5768bd919c6ca9d63a751da"
+    },
+    {
+      "date": "1996-07-19",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19960719_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19960719_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1e75e9bc81d11f5f0f8df9a54431ee4f76b7c4ca7d9b249f1623d633ae0a3973"
+    },
+    {
+      "date": "1996-08-20",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19960820_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19960820_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "86fe4a1d5a69df689d39a6859031b90f5e4e122d60817a8647f75464232a334e"
+    },
+    {
+      "date": "1996-08-04",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19960804_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19960804_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "455cfe86bffc7b58baec01ae613f5f4bc7754b745dac9dbd4019162cac8c5eae"
+    },
+    {
+      "date": "1996-09-05",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19960905_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19960905_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d6c524f4479b77eae2e34e2870c086e2e6a4dc747968ad6e2103f84a118423c5"
+    },
+    {
+      "date": "1991-11-27",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19911127_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19911127_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3ed8f2e61f1d97a46750778063de172a4e0bcd1be788e3bea734819b40b7f614"
+    },
+    {
+      "date": "1996-10-23",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19961023_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19961023_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9a801aae7e03a9efb1e13bbac01eb8de40fbe10666cc90c030af472bfb63ee24"
+    },
+    {
+      "date": "1997-05-03",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19970503_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19970503_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d08666587d5250e593eee324b9c30553422ded768ae26d0858970152cbc86db2"
+    },
+    {
+      "date": "1997-08-23",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19970823_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19970823_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "955e07ad35e5a0d8b018f98d5cd9584ad6d0e66d54f14b129b30a9bc1223a2e2"
+    },
+    {
+      "date": "1996-06-17",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19960617_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19960617_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c5fe7fe9116b2d540cd58e82a20f9a274a51c741df113b0702cdc72efea58c2a"
+    },
+    {
+      "date": "1996-09-21",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19960921_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19960921_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1f713b6cfe677951c0428e469581ad86fedd5ba9d726fddea7915c4ba9d4a73f"
+    },
+    {
+      "date": "1997-10-10",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19971010_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19971010_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "013a29e84c97728afaaaea2d14092b0a2513c54f55132f654891139aee79cb41"
+    },
+    {
+      "date": "1997-09-08",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19970908_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19970908_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ae549c8ea63f0135af2fa2e2a3228c0126e8dfed9b27c531b9d2d123c24feb27"
+    },
+    {
+      "date": "1997-12-13",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19971213_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19971213_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "6b8e9bd56f4714697910e3ede1d342842d644a1c0e0ae35722d0af76d262afbf"
+    },
+    {
+      "date": "1998-01-30",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980130_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980130_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8a155551ebfbe6e21a77518f3643450a3f2aee6b21d3e99cc2bfca765c085981"
+    },
+    {
+      "date": "1997-06-20",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19970620_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19970620_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "22bbc7ee2a1b7dbef4ddcf85dc0076b2756b996a4ca69aa55ad6bb23f5249037"
+    },
+    {
+      "date": "1998-02-15",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980215_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980215_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "78d3ad1be77d663d9c158adbbbc2320989e47b75b0471b4dc3726d1004227074"
+    },
+    {
+      "date": "1997-10-26",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19971026_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19971026_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ef64fa0e43f4e8cbb2c85c1eb03dd4a0f189581f9dab1168be531d53849d68f6"
+    },
+    {
+      "date": "1998-01-14",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980114_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980114_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "7e51a7705a3761c76e819efc3261dbf66bc0d4ed60459ee8907e5890287c9e49"
+    },
+    {
+      "date": "1998-03-03",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980303_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980303_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "21a101520dfbe0a47a32a1ab06dc08231fa7e5d949ab72e9b3513cca0ebbdd77"
+    },
+    {
+      "date": "1998-05-06",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980506_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980506_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "f0c94b3b276685dc2253a7df207fccb8ac4c56fe868b2e1e04a7291bdb3a23ae"
+    },
+    {
+      "date": "1997-11-11",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19971111_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19971111_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b3d723ad19890c53514808ae66ae1d1ee5f5dbe4a0d64c373407d2b7c8b21cdd"
+    },
+    {
+      "date": "1998-04-04",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980404_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980404_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "593b89b97f6c4809117f80cd5cacd0e45d6fc0ae616ab26cf5a5c22a4943da68"
+    },
+    {
+      "date": "1998-03-19",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980319_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980319_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "15da5604161594e50743b6554002068fadd34452124fcb235a42f74ff9e2f96f"
+    },
+    {
+      "date": "1998-06-07",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980607_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19980607_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a72f0a68d5a6852157b62904376dd7264bbaf1afca574bd2dfa2a20d9325e981"
+    },
+    {
+      "date": "1998-08-10",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980810_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980810_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b8c8a48447d613997abee777e3ed02acfa928994e06848f5be1e6cdd5a3f45eb"
+    },
+    {
+      "date": "1998-09-27",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980927_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980927_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b5af1de8d0efe2b301ddcaf45881a781f8cdab253e54a5560cd3c6be5eab2684"
+    },
+    {
+      "date": "1998-04-20",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980420_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19980420_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "27e0fc0ec85f27c4bf00cf4253ecd800920a505b216e3b123b0aa31e3697e994"
+    },
+    {
+      "date": "1998-05-22",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980522_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980522_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4f3039542865a1c4fcf8ef9c365f0497eff0dc49a37a9de12c5f20b73afb6a0d"
+    },
+    {
+      "date": "1998-10-13",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19981013_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19981013_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "a121d5816e2b0ce3845cbea90869ef75e379bf4ca0ad3214f6ea233e7c489673"
+    },
+    {
+      "date": "1998-07-09",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19980709_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19980709_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d8781fe6c66e4e80bd7883e4f7e1f45d87fc854c3dcb3d02c26b7380776c4f15"
+    },
+    {
+      "date": "1999-01-01",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990101_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990101_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ba72082a72e25dcc70024c0deb1d2e06b382bb6a2cfe05e914e92c924c2cd609"
+    },
+    {
+      "date": "1999-01-17",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990117_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990117_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "99d214fcab14f88e82da8a1e39139561715851bcaa302929e1b89f3363dc5f72"
+    },
+    {
+      "date": "1999-02-18",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990218_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990218_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c7331e2296a990d2a4a9665ac28e73fe43f59ed49ce7abb854c988dc8797fa54"
+    },
+    {
+      "date": "1998-11-30",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19981130_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19981130_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ab2de76ae6358ab0e1afa5063c83c4f22f51061c60adc3720472002527d4d559"
+    },
+    {
+      "date": "1998-12-16",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19981216_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19981216_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8ec4bf8076f60cd9ded624e44b2623eb241b2330951c295151e810fa94c22e10"
+    },
+    {
+      "date": "1999-04-07",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990407_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19990407_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ffbcefdd51c3007062bb4916c90822a3736529859d640c2ca8e578870745ac7d"
+    },
+    {
+      "date": "1999-04-23",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990423_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990423_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "280b66fd33fd3dc628fe2bf4717baafea047561d1f08198e4da24cb809bce482"
+    },
+    {
+      "date": "1999-05-09",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990509_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990509_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "4d37b6e33ddbb9465f784ae8776a3120d4c09a8385f46deeb3a6f5fd93a4d9de"
+    },
+    {
+      "date": "1999-06-26",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990626_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19990626_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9233f6c12907b22a9ede20b0a119d5887ee98da8de6c2de5e5d63f15bbffe096"
+    },
+    {
+      "date": "1999-06-10",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990610_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19990610_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e14381573f61bd07d533132c226bb906f4fc289b9624f150f0361f5000fbf5e0"
+    },
+    {
+      "date": "1999-05-25",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990525_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990525_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8e0756b11e293dec6dfbf7fec51c6b2cb51816e44f9a3683f908dc3794272639"
+    },
+    {
+      "date": "1999-07-12",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990712_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990712_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9e7e9d3cfb7683cd092236a5e201ddf42f2fba993ade5b7d8116d76480a61480"
+    },
+    {
+      "date": "1999-09-14",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990914_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19990914_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2687568af2f7833e8650eeec58248d875d75297102bb20b26880be15f9b14472"
+    },
+    {
+      "date": "1999-07-28",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990728_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990728_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e06b5a4b6f0a8d53eaf8313e08f3c5493c1e5119faa963759471b0bafb27f7af"
+    },
+    {
+      "date": "1999-11-01",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19991101_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19991101_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "23b731e3f5ee1edb59527d5b7453ecc704bc01084a31b8dda12168fe20842bc4"
+    },
+    {
+      "date": "1999-08-29",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990829_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990829_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "bf290fb6213e67a8e531cd474e75c1f143150850d728fd9d875d8b3c182c560e"
+    },
+    {
+      "date": "1999-11-17",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19991117_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19991117_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3fa1e736062fa29f1647b575d264f44c120cb16a70a00197629d8a8d4668650f"
+    },
+    {
+      "date": "1999-08-13",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990813_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990813_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e445d74854172875a4ead14e1ed8961e18f5c8bdd8e5d10db981f34be9820600"
+    },
+    {
+      "date": "1999-10-16",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19991016_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19991016_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ea1b1c82c1b81c14788a44f306f110b5fd6e7463c76ed4585cb4e2a31f3fd97e"
+    },
+    {
+      "date": "1999-12-03",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19991203_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19991203_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "d0cc5876e1acbb11137be24a1e649d9292b1aa7e4aa229ce888a7dacfdf5094a"
+    },
+    {
+      "date": "1999-09-30",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19990930_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_19990930_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "e43059f36a803fbf1c11ead55e697fdf8c37d1884db77e8da2cf7d1aa4c797fe"
+    },
+    {
+      "date": "2000-05-11",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000511_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000511_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "106a5e9472ce7e4c921635552e5b76d605ed448e3e75887b794b8c2c05f05e9e"
+    },
+    {
+      "date": "2000-05-27",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000527_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000527_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "70ab6ccce1989419f98267d7fccb8bed702048ec4a3c08eebcc8c72dfa1f9a31"
+    },
+    {
+      "date": "1999-12-19",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_19991219_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_19991219_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "36e5f01c225f2d7585100526212f1d4277732db4b35acdf6482b676dee0b4c02"
+    },
+    {
+      "date": "2000-06-12",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000612_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000612_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "3f518b146808c3ac809125f4a1f0141f475dd688d789735dd7f36286c6741941"
+    },
+    {
+      "date": "2000-07-14",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000714_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_20000714_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "ca92d851d804ec25fc418bbc98f10445ab4b45326a5a88c25dadcff00616d992"
+    },
+    {
+      "date": "2000-07-30",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000730_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000730_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "8ab0bcf043ec894698a8da231184cdafa4180de0ae95578a63de53a1d0762c5b"
+    },
+    {
+      "date": "2000-06-28",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000628_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000628_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "c79aaa791b44e9f76bf9ca3b6c116b57ff2d00f4152698c02949849a80228da4"
+    },
+    {
+      "date": "2000-08-15",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000815_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000815_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "286167ad005d04c20d507cd74439120e204941f09086dd0d75e200e8990a71da"
+    },
+    {
+      "date": "2000-09-16",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000916_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000916_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "0b435c0a14cd6be3e038a1916cf835656e8072e3db716911aa21021856d175d7"
+    },
+    {
+      "date": "2000-08-31",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20000831_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20000831_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "11dfa93109232465719f8306b61361b94d5602288e0ad8c80b180f42dce19aab"
+    },
+    {
+      "date": "2000-10-02",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20001002_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20001002_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "1c785b1275a4e4906f96cf07bb4c70f49ab9f2065f83626ad1f994b60dfcaa64"
+    },
+    {
+      "date": "2001-02-07",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20010207_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20010207_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "df3bf12d2b606ce0d58d1f9f40084107a8362091c97c892fcac45834ebf36ca1"
+    },
+    {
+      "date": "2008-06-18",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20080618_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20080618_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "abd9f17284f536114fea61ba23ea6b2da48771a9af592d13b5946a39644e4793"
+    },
+    {
+      "date": "2009-12-14",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20091214_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20091214_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "65eb98174019c77fc2218c50101fd138dce9ee483234a6329a228fe019734317"
+    },
+    {
+      "date": "2007-09-20",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20070920_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20070920_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "9ec995ba416363b875ab04ff86be0d08413b089565bb6e63bb144480309bbcf8"
+    },
+    {
+      "date": "2000-10-18",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20001018_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20001018_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "718a17408d5116068e7943421b7f51fdf486d77cfd36470afffc9bf35f88e15c"
+    },
+    {
+      "date": "2011-03-23",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20110323_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_20110323_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "442d884b39f90c798bc34f32e91189e7951406ecd97f8d037e49eba592f47a18"
+    },
+    {
+      "date": "2011-04-24",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20110424_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20110424_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "282beece08b2464f6f02f9a1dd4b367b9532e1c847644dd70c9bd37b8a8eb377"
+    },
+    {
+      "date": "2008-06-02",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20080602_02_T2.u16",
+      "scene_id": "LT05_L2SP_007055_20080602_02_T2",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "b33249e7148cdc8bcaf1ccc6893d737f17308ef38ce1534c8cbf483175fd8c62"
+    },
+    {
+      "date": "2011-04-08",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20110408_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20110408_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "5de107fe0467d1770aaa9b1d801cd406a7824eb023e11edcf56f869dc86d41e8"
+    },
+    {
+      "date": "2011-05-26",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20110526_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20110526_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "2ce27a8dc661a5886837e93c56a8c35285a0ea644b8546de924686ff22164a30"
+    },
+    {
+      "date": "2011-06-11",
+      "sensor": 5,
+      "file": "LT05_L2SP_007055_20110611_02_T1.u16",
+      "scene_id": "LT05_L2SP_007055_20110611_02_T1",
+      "source": "USGS Landsat Collection 2 Level 2 via Microsoft Planetary Computer",
+      "sha256": "dc1646d9563cef8be25d39dd41c3a7c8807ab0a52142f101181025aa47018db0"
+    }
+  ],
+  "failed_scenes": [],
+  "resampling": "nearest",
+  "raw_array_order": [
+    "blue",
+    "green",
+    "red",
+    "nir08",
+    "swir16",
+    "swir22",
+    "qa_pixel",
+    "qa_radsat"
+  ]
+}

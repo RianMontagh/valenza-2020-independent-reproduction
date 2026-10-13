@@ -1,0 +1,15 @@
+test,pass
+cloud_does_not_contaminate_median,True
+known_uniform_spectrum,True
+missing_pixel_stays_missing,True
+bright_pixel_detected,True
+wet_pixel_detected,True
+known_pixel_area_900_m2,True
+identical_real_masks_SR1,True
+analytical_power_law_exponent,True
+analytical_power_law_r_squared,True
+known_group_median,True
+known_group_range,True
+translated_overlap_foreground_IoU,True
+translated_overlap_valid_count,True
+translated_overlap_spectrum_unchanged,True

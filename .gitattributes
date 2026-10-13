@@ -1,0 +1,5 @@
+*.npz binary -delta
+*.pdf binary -delta
+*.png binary -delta
+*.csv -text whitespace=cr-at-eol
+data/results/*.log -text -whitespace
